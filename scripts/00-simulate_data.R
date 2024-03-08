@@ -10,7 +10,7 @@
 
 #### Workspace setup ####
 library(tidyverse)
-
+library(dplyr)
 
 #### Simulate data ####
 set.seed(853)
@@ -34,5 +34,8 @@ us_political_preferences <- tibble(
     gender = if_else(gender == 0, "Male", "Female")
   ) |>
   select(-support_prob, supports_biden, gender, education)
+
+
+
 
 write.csv(us_political_preferences, "data/simulated_data/simulated_data.csv")

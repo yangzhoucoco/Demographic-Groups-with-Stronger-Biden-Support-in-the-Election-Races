@@ -10,6 +10,13 @@
 
 #### Workspace setup ####
 library(tidyverse)
-# [...UPDATE THIS...]
+library(testthat)
 
 #### Test data ####
+simulated_data <- read.csv("data/simulated_data/simulated_data.csv")
+test_that("Check class", {
+  expect_type(simulated_data$education, "character")
+  expect_type(simulated_data$gender, "character")
+  expect_type(simulated_data$support_biden, "character")
+})
+
