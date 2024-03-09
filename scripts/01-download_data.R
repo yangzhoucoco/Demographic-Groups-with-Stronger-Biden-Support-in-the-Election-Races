@@ -21,9 +21,9 @@ ces2022 <-
     server = "dataverse.harvard.edu",
     .f = read_csv
   ) |>
-  select(votereg, presvote20post, race, sexuality)
+  select(votereg, presvote20post, race, gender4)
 
-write_csv(ces2022, "data/raw_data/raw_data.csv")
+write_csv(ces2022, "data/raw_datas/raw_datas.csv")
 
 
 

@@ -18,9 +18,9 @@ set.seed(853)
 num_obs <- 800
 
 us_political_preferences <- tibble(
-  race = sample(0:5, size = num_obs, replace = TRUE),
-  lgbtq = sample(0:1, size = num_obs, replace = TRUE),
-  support_prob = ((race + lgbtq) / 5),
+  race = sample(0:4, size = num_obs, replace = TRUE),
+  gender = sample(0:1, size = num_obs, replace = TRUE),
+  support_prob = ((race + gender) / 5),
 ) |>
   mutate(
     supports_biden = if_else(runif(n = num_obs) < support_prob, "yes", "no"),
@@ -31,9 +31,9 @@ us_political_preferences <- tibble(
       race == 3 ~ "Asian",
       race == 4 ~ "Other"
     ),
-    lgbtq = if_else(lgbtq == 0, "LGBTQ", "Non_LGBTQ")
+    gender = if_else(gender == 0, "Male", "Female")
   ) |>
-  select(-support_prob, supports_biden, race, lgbtq)
+  select(-support_prob, supports_biden, race, gender)
 
 
 
