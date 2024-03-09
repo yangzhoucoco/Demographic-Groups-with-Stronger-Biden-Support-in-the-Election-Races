@@ -23,6 +23,7 @@ library(here)
 ```
 
 
+
 # Introduction
 Cooperative Election Study (CES) (@main_data) aims to study American electoral dynamics during 2022 elections period
 
@@ -35,6 +36,7 @@ For the actual data we can use the 2022 Cooperative Election Study (CES) (@main_
 ## Source and Methodology
 
 ## Variables
+
 ```{r}
 #| label: fig-variables
 #| fig-cap: Brief summary of variables types
@@ -52,11 +54,13 @@ ces2022 <-  read_csv(file = here::here("data/raw_datas/raw_datas.csv"))
       )
 ces2022
 ```
+
   After downloading @dataverse, We using @get_dataframe_by_name to access the CES. We select and save the data that we are most care about, which are "votereg", "presvote20post", "race", and "gender4". "votereg" represent the voter registration status. To be more specific, whether they are registered to vote or not. "presvote20post" records the president that voter select in the election of 2020. “race" describe the voter's raical or ethnic group, and "gender4" refer to the gender of voters.
   However, when we access the raw data, there are some variables that we are not interested in. Therefore, we use the codebook to delve into the details. We only care about the voter who are registered to vote, and we are mainly focus on investigating the voter who select Biden or Trump in 2020. We found out that when the "presvote20post" is 1, then this indicates the register vote for Biden, and when it is 2 represents that the voter stand for Trump. We use @tidyverse to filter to the voters that we care about and label them with meaningful title. In addition，CES also provide the information for the gender of the voter. However, we noticed that there are four types of gender, which are man, woman, non-binary, other, and none and we are more interested in the group of man and woman. Therefore, we filter the gender by using @tidyverse. When the variable "gender" is 1, this indicates "man", but we rename all "man" to "male". When the variable "gender" is 2, it refers to "woman". We also rename all "woman" to "female". Finally, the codebook also define different "race" from 1 to 8, which are White, Black, Hispanic, Asian, Native American, Middle Eastern, Two or more races, and other. We keep all those races because we are not only interested in the major racial group, but also curious about the respond from minority group.
   To better understand the raw data, a summary table had been drawn in order to provide more details for each variables, explaining the variables we select.
   
 ## Measurements
+
 ```{r}
 #| label: fig-vote
 #| fig-cap: The distribution of presidential preferences, by gender, and race
@@ -69,7 +73,6 @@ ces2022 <- read_csv(here("data/analysis_data/analysis_data.csv"))
 ces2022 |>
   ggplot(aes(x = race, fill = voted_for)) +
   stat_count(position = "dodge") +
-  geom_text(stat='count', aes(label=..count..), position=position_dodge(width=0.9), vjust=-0.25, color="black") +
   facet_wrap(facets = vars(gender4)) +
   theme_minimal() +
   labs(
@@ -81,6 +84,7 @@ ces2022 |>
   scale_fill_brewer(palette = "Set1") +
   theme(legend.position = "bottom")
 ```
+
 
 
 
@@ -115,6 +119,43 @@ y_i|\pi_i &\sim \mbox{Bern}(\pi_i) \\
 \end{align}
 
 
+```{r}
+#| label: fig-model
+#| fig-cap: Whether a respondent is likely to vote for Biden based on their gender and race
+#| echo: false
+#| warning: false
+#| message: false
+
+#### Workspace setup ####
+library(tidyverse)
+library(rstanarm)
+library(modelsummary)
+
+#### Read data ####
+analysis_data <- read_csv(file = here::here("data/analysis_data/analysis_data.csv"))
+
+### Model data ####
+set.seed(853)
+
+ces2022_reduced <- 
+  ces2022 |> 
+  slice_sample(n = 500)
+
+us_political_preferences <-
+  stan_glm(
+    factor(voted_for) ~ gender4 + race,
+    data = analysis_data,
+    family = binomial(link = "logit"),
+    prior = normal(location = 0, scale = 2.5, autoscale = TRUE),
+    prior_intercept = 
+      normal(location = 0, scale = 2.5, autoscale = TRUE),
+    seed = 853
+  )
+
+
+```
+
+
 
 We run the model in R [@citeR] using the `rstanarm` package of @rstanarm, `here` package of @here and `model_summary` package of @model_summary, we use the default priors from `rstanarm`
 
@@ -129,6 +170,7 @@ We can use maths by including latex between dollar signs, for instance $\theta$.
 # Results
 
 Our results are summarized in @tbl-modelresults.
+
 
 ```{r}
 #| echo: false
@@ -161,6 +203,7 @@ modelsummary(
 
 
 
+
 # Discussion
 
 ## First discussion point {#sec-first-point}
@@ -179,5 +222,6 @@ If my paper were 10 pages, then should be be at least 2.5 pages. The discussion 
 
 
 # References
+
 
 

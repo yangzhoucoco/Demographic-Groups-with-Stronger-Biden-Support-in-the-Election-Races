@@ -16,11 +16,12 @@ raw_data <- read_csv("data/raw_datas/raw_datas.csv")
 cleaned_data <-
   raw_data |>
   filter(votereg == 1,
-         presvote20post %in% c(1, 2)) |>
+         presvote20post %in% c(1, 2),
+         gender4 %in% c(1, 2)) |> 
   mutate(
     voted_for = if_else(presvote20post == 1, "Biden", "Trump"),
     voted_for = as_factor(voted_for),
-    gender = if_else(gender4 == 0, "Male", "Female"),
+    gender = if_else(gender4 == 1, "Male", "Female"),
     race = case_when(
       race == 1 ~ "White",
       race == 2 ~ "Black",

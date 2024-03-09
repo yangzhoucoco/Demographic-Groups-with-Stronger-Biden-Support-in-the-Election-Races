@@ -2,7 +2,6 @@ voted_for,gender4,race
 Biden,1,White
 Biden,1,White
 Biden,2,White
-Biden,3,White
 Trump,1,Two or more races
 Biden,2,Black
 Biden,1,White
@@ -56,7 +55,6 @@ Biden,2,Black
 Biden,2,White
 Trump,2,White
 Trump,2,White
-Biden,3,Middle Eastern
 Biden,2,White
 Trump,2,White
 Biden,2,Black
@@ -168,7 +166,6 @@ Biden,2,White
 Biden,2,Black
 Trump,2,Hispanic
 Biden,2,Black
-Biden,3,White
 Trump,2,White
 Biden,2,White
 Biden,2,White
@@ -729,7 +726,6 @@ Biden,1,Black
 Trump,1,White
 Trump,1,White
 Biden,2,White
-Trump,4,White
 Biden,2,White
 Biden,2,White
 Trump,1,Black
@@ -739,7 +735,6 @@ Biden,1,White
 Biden,2,White
 Biden,2,White
 Biden,1,White
-Biden,3,Middle Eastern
 Trump,2,White
 Biden,1,White
 Biden,2,White
@@ -934,7 +929,6 @@ Biden,1,White
 Trump,2,White
 Biden,1,White
 Trump,1,White
-Biden,3,White
 Biden,1,White
 Trump,2,White
 Biden,2,White
@@ -998,7 +992,6 @@ Trump,1,White
 Trump,1,White
 Biden,1,White
 Biden,1,White
-Biden,3,White
 Trump,1,White
 Biden,1,White
 Biden,1,White
@@ -1180,7 +1173,6 @@ Biden,1,White
 Trump,1,White
 Biden,1,White
 Trump,1,White
-Trump,4,Hispanic
 Biden,2,White
 Trump,2,White
 Trump,1,White
@@ -1933,7 +1925,6 @@ Biden,2,White
 Trump,1,White
 Biden,1,Asian
 Biden,2,White
-Trump,4,Two or more races
 Trump,1,White
 Trump,2,White
 Biden,1,White
@@ -1971,7 +1962,6 @@ Biden,2,White
 Trump,1,White
 Biden,1,Middle Eastern
 Trump,1,Black
-Biden,3,Middle Eastern
 Trump,2,White
 Trump,2,White
 Trump,2,White
@@ -2486,7 +2476,6 @@ Trump,2,White
 Biden,1,White
 Biden,1,White
 Trump,2,Hispanic
-Biden,3,White
 Trump,1,White
 Trump,1,White
 Trump,1,White
@@ -2649,7 +2638,6 @@ Trump,2,White
 Trump,2,White
 Biden,1,White
 Biden,2,White
-Biden,3,White
 Trump,1,White
 Biden,2,White
 Biden,2,White
@@ -2760,7 +2748,6 @@ Biden,1,White
 Biden,2,White
 Trump,2,White
 Trump,2,White
-Biden,3,White
 Biden,2,Black
 Biden,1,White
 Trump,1,White
@@ -2826,7 +2813,6 @@ Biden,2,Asian
 Biden,2,White
 Biden,1,White
 Biden,2,White
-Biden,3,White
 Trump,1,White
 Biden,1,White
 Biden,1,White
@@ -3003,7 +2989,6 @@ Trump,2,White
 Biden,1,White
 Trump,1,White
 Trump,2,Two or more races
-Biden,3,Middle Eastern
 Biden,1,White
 Biden,1,White
 Trump,2,White
@@ -3394,7 +3379,6 @@ Trump,1,Asian
 Biden,1,Black
 Trump,2,White
 Trump,1,Asian
-Biden,3,Native American
 Trump,1,White
 Biden,2,White
 Biden,1,Hispanic
@@ -3699,7 +3683,6 @@ Trump,2,White
 Biden,1,White
 Trump,1,White
 Biden,2,White
-Trump,3,White
 Trump,1,White
 Biden,2,White
 Biden,2,White
@@ -3715,7 +3698,6 @@ Biden,1,White
 Biden,2,Black
 Biden,1,White
 Trump,2,White
-Biden,3,Black
 Biden,1,White
 Biden,1,Black
 Trump,2,White
@@ -3793,7 +3775,6 @@ Trump,1,White
 Biden,1,White
 Biden,1,White
 Biden,2,White
-Biden,3,White
 Biden,1,Black
 Biden,1,White
 Biden,2,Middle Eastern
@@ -4002,7 +3983,6 @@ Trump,2,White
 Biden,2,Black
 Biden,2,White
 Biden,1,White
-Trump,4,Two or more races
 Biden,2,White
 Biden,2,White
 Biden,2,White
@@ -4120,7 +4100,6 @@ Biden,1,White
 Biden,2,Black
 Trump,2,Two or more races
 Trump,1,White
-Biden,3,White
 Trump,1,White
 Biden,1,White
 Biden,1,White
@@ -4533,7 +4512,6 @@ Biden,1,Black
 Trump,1,White
 Biden,2,White
 Biden,2,White
-Biden,3,White
 Biden,1,White
 Biden,1,White
 Trump,2,Native American
@@ -4693,7 +4671,6 @@ Biden,1,White
 Biden,2,White
 Biden,1,White
 Trump,2,White
-Biden,3,White
 Biden,2,Black
 Biden,2,Black
 Trump,1,White
@@ -4849,7 +4826,6 @@ Biden,2,White
 Trump,2,White
 Trump,1,White
 Biden,2,White
-Biden,3,Asian
 Trump,1,Middle Eastern
 Biden,2,White
 Trump,1,Asian
@@ -4985,7 +4961,6 @@ Trump,2,White
 Biden,1,Black
 Trump,1,White
 Trump,1,White
-Biden,3,White
 Trump,1,White
 Trump,1,White
 Trump,1,White
@@ -5100,7 +5075,6 @@ Trump,1,White
 Biden,2,White
 Biden,2,White
 Biden,1,White
-Biden,3,White
 Trump,2,White
 Biden,2,White
 Trump,2,Black
@@ -5180,7 +5154,6 @@ Trump,1,White
 Biden,1,White
 Trump,1,White
 Trump,1,White
-Trump,3,Asian
 Trump,1,White
 Trump,1,White
 Biden,2,White
@@ -5553,7 +5526,6 @@ Trump,1,White
 Trump,1,White
 Biden,1,White
 Biden,2,Black
-Biden,3,White
 Biden,1,White
 Trump,2,White
 Trump,1,White
@@ -5814,7 +5786,6 @@ Biden,1,White
 Trump,1,White
 Trump,2,Hispanic
 Biden,2,White
-Biden,3,White
 Biden,2,Other
 Trump,1,White
 Biden,2,Hispanic
@@ -5830,7 +5801,6 @@ Trump,2,Native American
 Biden,1,Black
 Biden,1,Hispanic
 Biden,2,Hispanic
-Biden,3,Two or more races
 Biden,1,Black
 Biden,1,White
 Trump,1,White
@@ -5910,7 +5880,6 @@ Biden,1,White
 Biden,1,Black
 Trump,1,Hispanic
 Biden,2,White
-Biden,3,Black
 Biden,2,Black
 Biden,1,White
 Biden,1,White
@@ -6104,7 +6073,6 @@ Biden,2,White
 Trump,1,White
 Biden,1,White
 Trump,2,White
-Biden,3,White
 Trump,1,White
 Biden,2,White
 Biden,1,White
@@ -6703,7 +6671,6 @@ Biden,1,White
 Biden,1,White
 Trump,1,White
 Trump,1,White
-Biden,3,Asian
 Trump,2,White
 Trump,2,White
 Trump,2,White
@@ -6794,7 +6761,6 @@ Trump,1,White
 Biden,2,White
 Trump,2,White
 Biden,2,Black
-Biden,3,White
 Trump,2,White
 Biden,2,White
 Biden,2,Black
@@ -7105,7 +7071,6 @@ Biden,2,White
 Biden,2,White
 Trump,2,White
 Biden,2,White
-Biden,3,White
 Biden,1,White
 Biden,2,White
 Biden,1,White
@@ -7386,7 +7351,6 @@ Biden,2,White
 Trump,2,White
 Trump,2,White
 Biden,1,White
-Biden,3,White
 Trump,2,White
 Trump,2,White
 Biden,1,White
@@ -7597,7 +7561,6 @@ Biden,1,White
 Biden,1,White
 Biden,2,White
 Trump,1,White
-Trump,4,White
 Biden,1,White
 Trump,1,White
 Biden,1,White
@@ -7662,7 +7625,6 @@ Biden,1,White
 Biden,2,White
 Biden,2,White
 Trump,2,White
-Biden,3,White
 Biden,2,White
 Trump,2,Middle Eastern
 Biden,2,White
@@ -7746,7 +7708,6 @@ Trump,1,White
 Trump,2,White
 Trump,1,White
 Trump,2,White
-Trump,3,Middle Eastern
 Trump,2,White
 Biden,2,White
 Biden,2,White
@@ -7825,7 +7786,6 @@ Trump,1,Asian
 Biden,2,White
 Biden,1,White
 Biden,1,White
-Biden,3,White
 Trump,1,White
 Biden,1,White
 Biden,2,Black
@@ -7966,7 +7926,6 @@ Biden,1,Middle Eastern
 Biden,1,Black
 Biden,2,White
 Biden,2,White
-Biden,3,White
 Trump,1,White
 Biden,2,Hispanic
 Trump,1,Native American
@@ -8181,7 +8140,6 @@ Trump,2,Hispanic
 Trump,2,Hispanic
 Trump,1,White
 Biden,1,Hispanic
-Trump,4,White
 Biden,1,White
 Biden,2,White
 Trump,2,White
@@ -8249,7 +8207,6 @@ Trump,2,White
 Biden,2,White
 Biden,1,Hispanic
 Trump,1,White
-Biden,3,White
 Biden,2,Hispanic
 Trump,2,White
 Biden,1,Hispanic
@@ -8912,7 +8869,6 @@ Trump,2,White
 Biden,2,White
 Trump,1,White
 Biden,2,White
-Biden,3,White
 Trump,2,White
 Trump,2,White
 Biden,1,White
@@ -9027,7 +8983,6 @@ Biden,1,White
 Trump,2,White
 Trump,1,White
 Biden,2,White
-Biden,3,White
 Trump,2,White
 Biden,1,White
 Trump,2,White
@@ -9081,7 +9036,6 @@ Biden,1,White
 Biden,1,White
 Biden,1,White
 Biden,1,Black
-Biden,4,White
 Biden,2,White
 Trump,1,White
 Biden,2,White
@@ -9092,7 +9046,6 @@ Trump,2,White
 Biden,2,Black
 Biden,2,White
 Biden,1,White
-Biden,3,White
 Biden,2,White
 Biden,2,Middle Eastern
 Biden,2,White
@@ -9121,7 +9074,6 @@ Biden,1,White
 Biden,2,Asian
 Biden,1,White
 Biden,2,White
-Biden,3,Two or more races
 Biden,2,White
 Biden,2,Black
 Biden,2,Black
@@ -9163,7 +9115,6 @@ Trump,1,White
 Biden,2,Black
 Trump,2,White
 Trump,1,White
-Biden,3,White
 Biden,1,White
 Biden,1,White
 Trump,2,Middle Eastern
@@ -9276,7 +9227,6 @@ Biden,1,White
 Biden,1,Black
 Biden,2,Middle Eastern
 Trump,2,Two or more races
-Biden,3,White
 Biden,2,Black
 Biden,2,White
 Biden,1,White
@@ -9409,7 +9359,6 @@ Biden,1,White
 Trump,1,White
 Trump,2,Middle Eastern
 Biden,2,White
-Biden,3,White
 Biden,1,Black
 Biden,2,White
 Trump,1,White
@@ -9539,7 +9488,6 @@ Biden,2,White
 Biden,2,White
 Trump,1,White
 Biden,1,White
-Biden,3,White
 Trump,2,White
 Trump,1,White
 Biden,1,White
@@ -9806,7 +9754,6 @@ Trump,2,Asian
 Biden,2,Middle Eastern
 Biden,1,White
 Biden,2,Black
-Biden,3,White
 Biden,2,White
 Biden,1,White
 Biden,2,White
@@ -10073,7 +10020,6 @@ Biden,2,White
 Biden,1,White
 Trump,2,Hispanic
 Biden,2,Middle Eastern
-Biden,3,White
 Biden,2,White
 Biden,1,White
 Trump,1,White
@@ -10089,7 +10035,6 @@ Biden,2,White
 Biden,1,White
 Biden,1,White
 Biden,1,White
-Biden,4,White
 Biden,2,White
 Biden,2,White
 Trump,2,White
@@ -10224,7 +10169,6 @@ Biden,2,White
 Biden,2,Black
 Trump,1,White
 Biden,2,White
-Biden,3,White
 Biden,2,Hispanic
 Trump,1,White
 Biden,2,White
@@ -10246,7 +10190,6 @@ Trump,2,White
 Biden,1,White
 Trump,2,Black
 Biden,1,Hispanic
-Biden,3,White
 Biden,1,White
 Biden,1,White
 Trump,1,Asian
@@ -10304,7 +10247,6 @@ Trump,2,White
 Trump,1,White
 Biden,2,White
 Biden,2,White
-Biden,3,White
 Biden,1,White
 Trump,1,White
 Biden,2,White
@@ -10357,7 +10299,6 @@ Biden,2,White
 Biden,2,White
 Trump,1,White
 Biden,1,White
-Biden,3,White
 Trump,2,White
 Biden,2,White
 Biden,2,White
@@ -10783,7 +10724,6 @@ Biden,1,White
 Biden,2,White
 Trump,2,Two or more races
 Biden,2,White
-Biden,3,White
 Biden,2,White
 Biden,1,White
 Biden,2,White
@@ -11166,7 +11106,6 @@ Biden,1,White
 Trump,1,White
 Trump,2,White
 Trump,2,White
-Trump,3,White
 Biden,2,White
 Biden,1,White
 Biden,2,White
@@ -11252,7 +11191,6 @@ Trump,2,White
 Biden,2,White
 Trump,2,White
 Trump,2,Two or more races
-Trump,4,White
 Biden,2,White
 Biden,2,White
 Biden,1,White
@@ -11600,7 +11538,6 @@ Trump,2,White
 Trump,2,White
 Trump,2,Two or more races
 Biden,2,White
-Biden,4,White
 Biden,1,White
 Biden,2,White
 Biden,1,White
@@ -11623,7 +11560,6 @@ Biden,2,White
 Trump,1,White
 Biden,2,White
 Trump,2,White
-Trump,4,Middle Eastern
 Biden,1,White
 Biden,1,White
 Trump,2,White
@@ -11695,7 +11631,6 @@ Biden,2,Black
 Trump,1,White
 Biden,1,White
 Biden,1,White
-Biden,3,White
 Biden,2,White
 Biden,2,White
 Biden,2,White
@@ -12115,7 +12050,6 @@ Trump,2,White
 Biden,1,White
 Biden,2,White
 Trump,2,White
-Trump,4,White
 Biden,2,White
 Biden,2,White
 Biden,2,White
@@ -12331,7 +12265,6 @@ Biden,2,White
 Biden,2,White
 Biden,1,Black
 Biden,2,White
-Biden,3,White
 Trump,1,White
 Biden,2,White
 Biden,2,White
@@ -12376,7 +12309,6 @@ Biden,1,White
 Biden,1,White
 Biden,2,White
 Trump,1,White
-Biden,3,White
 Biden,2,White
 Trump,1,White
 Biden,2,White
@@ -12400,7 +12332,6 @@ Biden,2,White
 Biden,1,Asian
 Trump,1,White
 Biden,1,White
-Biden,3,White
 Biden,2,White
 Biden,2,White
 Trump,2,White
@@ -12459,7 +12390,6 @@ Trump,1,White
 Biden,2,White
 Trump,1,White
 Biden,1,White
-Biden,3,Black
 Trump,1,White
 Biden,2,Hispanic
 Biden,2,White
@@ -12644,7 +12574,6 @@ Trump,1,White
 Biden,2,White
 Biden,1,Asian
 Trump,2,Middle Eastern
-Biden,3,White
 Biden,2,Two or more races
 Biden,1,Black
 Biden,2,Black
@@ -12783,7 +12712,6 @@ Biden,2,Black
 Trump,2,White
 Biden,2,White
 Trump,2,White
-Biden,3,White
 Trump,1,White
 Biden,2,White
 Biden,2,White
@@ -12856,7 +12784,6 @@ Trump,2,White
 Trump,2,White
 Trump,2,White
 Trump,1,White
-Biden,3,White
 Trump,1,White
 Trump,2,White
 Biden,1,White
@@ -13022,7 +12949,6 @@ Biden,1,White
 Biden,2,White
 Trump,1,White
 Biden,2,White
-Biden,3,White
 Biden,2,White
 Biden,1,White
 Biden,1,White
@@ -13307,7 +13233,6 @@ Biden,2,White
 Biden,2,White
 Biden,2,Hispanic
 Trump,1,White
-Biden,3,Asian
 Trump,2,White
 Biden,2,White
 Biden,2,White
@@ -13437,7 +13362,6 @@ Trump,1,White
 Trump,1,White
 Biden,2,White
 Biden,2,White
-Trump,3,White
 Biden,2,White
 Trump,2,White
 Biden,2,White
@@ -13597,7 +13521,6 @@ Trump,1,White
 Biden,2,White
 Trump,2,White
 Trump,2,White
-Biden,3,White
 Biden,2,White
 Trump,1,White
 Biden,2,White
@@ -13765,7 +13688,6 @@ Biden,2,White
 Trump,1,White
 Trump,2,White
 Biden,1,White
-Biden,3,White
 Trump,1,White
 Biden,2,Hispanic
 Biden,2,Black
@@ -14074,7 +13996,6 @@ Trump,1,White
 Biden,2,White
 Biden,2,Middle Eastern
 Biden,2,White
-Biden,3,White
 Trump,1,White
 Trump,2,White
 Trump,1,White
@@ -14405,7 +14326,6 @@ Trump,2,White
 Trump,2,White
 Biden,2,White
 Trump,2,White
-Trump,4,White
 Biden,2,White
 Biden,2,White
 Trump,1,White
@@ -14714,7 +14634,6 @@ Biden,1,White
 Biden,1,White
 Biden,2,White
 Biden,2,White
-Biden,3,White
 Biden,1,White
 Trump,1,White
 Biden,2,White
@@ -15043,7 +14962,6 @@ Trump,2,White
 Biden,2,White
 Biden,2,Black
 Biden,1,White
-Biden,3,White
 Trump,1,White
 Biden,1,White
 Biden,1,White
@@ -15656,7 +15574,6 @@ Biden,1,White
 Biden,2,White
 Trump,1,White
 Biden,1,White
-Biden,4,Asian
 Biden,1,Asian
 Trump,1,White
 Biden,2,White
@@ -15753,12 +15670,10 @@ Biden,2,White
 Trump,2,Two or more races
 Trump,1,White
 Trump,1,White
-Biden,3,White
 Biden,1,White
 Trump,1,White
 Biden,2,Hispanic
 Trump,1,White
-Trump,4,Middle Eastern
 Biden,2,Middle Eastern
 Trump,1,Black
 Trump,1,White
@@ -15829,7 +15744,6 @@ Biden,2,Black
 Trump,2,White
 Biden,1,White
 Biden,2,White
-Biden,3,White
 Biden,2,Hispanic
 Trump,2,Black
 Trump,1,White
@@ -15998,7 +15912,6 @@ Biden,2,White
 Trump,1,White
 Trump,1,White
 Biden,1,Hispanic
-Biden,3,Middle Eastern
 Trump,2,White
 Trump,1,White
 Biden,2,Black
@@ -16048,7 +15961,6 @@ Biden,1,White
 Biden,2,White
 Biden,1,Black
 Trump,1,White
-Biden,3,White
 Trump,2,Black
 Biden,2,White
 Trump,2,White
@@ -16113,7 +16025,6 @@ Trump,2,White
 Biden,2,Hispanic
 Biden,1,White
 Trump,1,Two or more races
-Biden,4,White
 Biden,1,White
 Biden,1,White
 Biden,2,White
@@ -16281,9 +16192,7 @@ Biden,2,White
 Trump,1,White
 Biden,2,White
 Biden,1,White
-Biden,3,White
 Biden,1,White
-Biden,3,White
 Biden,1,White
 Biden,1,White
 Trump,1,White
@@ -16404,7 +16313,6 @@ Biden,2,White
 Biden,1,White
 Biden,1,White
 Biden,1,White
-Trump,3,White
 Trump,1,White
 Trump,1,White
 Trump,1,White
@@ -16557,7 +16465,6 @@ Biden,2,White
 Biden,2,White
 Trump,1,Hispanic
 Trump,1,White
-Biden,3,White
 Trump,1,White
 Biden,2,Hispanic
 Biden,2,Hispanic
@@ -16567,7 +16474,6 @@ Trump,2,White
 Trump,1,White
 Biden,2,White
 Biden,2,White
-Biden,3,White
 Biden,1,White
 Trump,2,White
 Biden,2,White
@@ -16844,8 +16750,6 @@ Biden,2,White
 Trump,2,White
 Trump,1,White
 Biden,1,White
-Trump,4,Two or more races
-Biden,4,White
 Trump,1,White
 Trump,1,White
 Trump,1,White
@@ -16862,7 +16766,6 @@ Biden,1,White
 Biden,2,Black
 Trump,1,White
 Biden,1,Hispanic
-Biden,3,Asian
 Trump,2,White
 Biden,2,White
 Biden,1,White
@@ -16889,7 +16792,6 @@ Biden,1,White
 Biden,2,Black
 Biden,2,White
 Biden,1,White
-Biden,3,Hispanic
 Trump,2,White
 Trump,2,White
 Trump,1,White
@@ -17343,7 +17245,6 @@ Biden,2,Black
 Trump,2,White
 Trump,1,Black
 Biden,1,White
-Biden,3,White
 Biden,1,White
 Biden,2,White
 Biden,1,White
@@ -18012,7 +17913,6 @@ Trump,2,Black
 Biden,2,Hispanic
 Biden,2,Hispanic
 Biden,2,White
-Biden,3,Two or more races
 Trump,2,Two or more races
 Biden,1,Black
 Trump,1,White
@@ -18162,7 +18062,6 @@ Biden,2,White
 Trump,1,White
 Biden,2,White
 Biden,1,White
-Biden,3,White
 Biden,2,Hispanic
 Biden,1,White
 Biden,2,White
@@ -18209,7 +18108,6 @@ Biden,1,Asian
 Biden,2,White
 Biden,1,Black
 Biden,2,White
-Trump,4,White
 Trump,2,White
 Biden,2,White
 Biden,2,White
@@ -18222,7 +18120,6 @@ Biden,2,White
 Biden,2,Black
 Biden,1,White
 Trump,1,White
-Trump,4,White
 Trump,2,Middle Eastern
 Biden,2,Asian
 Trump,2,White
@@ -18261,7 +18158,6 @@ Trump,1,White
 Biden,1,Black
 Trump,2,White
 Trump,2,White
-Biden,3,Hispanic
 Trump,2,White
 Biden,2,White
 Trump,2,White
@@ -18433,7 +18329,6 @@ Biden,2,White
 Trump,1,White
 Trump,2,Hispanic
 Biden,1,White
-Biden,3,Middle Eastern
 Biden,1,White
 Biden,1,White
 Trump,2,White
@@ -18961,7 +18856,6 @@ Biden,2,White
 Biden,2,White
 Biden,2,Black
 Biden,1,Hispanic
-Biden,3,White
 Trump,1,White
 Trump,2,White
 Biden,1,Hispanic
@@ -19345,7 +19239,6 @@ Biden,2,White
 Biden,2,Black
 Trump,2,White
 Trump,1,White
-Biden,4,White
 Biden,2,White
 Biden,2,White
 Biden,1,White
@@ -19366,7 +19259,6 @@ Biden,1,White
 Biden,2,Two or more races
 Biden,1,White
 Biden,1,White
-Trump,4,White
 Biden,2,Black
 Trump,2,White
 Biden,1,White
@@ -19405,7 +19297,6 @@ Biden,1,White
 Trump,2,White
 Trump,1,White
 Trump,1,White
-Biden,3,White
 Trump,1,White
 Trump,2,White
 Biden,2,Black
@@ -19487,7 +19378,6 @@ Biden,2,White
 Biden,2,Black
 Biden,1,Black
 Biden,1,White
-Trump,4,White
 Biden,1,Hispanic
 Trump,1,White
 Biden,1,Black
@@ -19719,7 +19609,6 @@ Trump,1,White
 Biden,1,White
 Trump,2,White
 Biden,1,White
-Biden,3,White
 Biden,2,White
 Trump,1,White
 Trump,1,White
@@ -19832,7 +19721,6 @@ Trump,1,White
 Biden,1,Other
 Biden,1,White
 Biden,2,Hispanic
-Trump,4,Middle Eastern
 Biden,2,White
 Trump,1,White
 Trump,2,White
@@ -19854,7 +19742,6 @@ Biden,1,White
 Biden,1,White
 Trump,1,White
 Biden,2,White
-Biden,4,White
 Trump,2,White
 Biden,2,Hispanic
 Biden,2,Black
@@ -20006,7 +19893,6 @@ Biden,2,White
 Trump,1,White
 Biden,2,Black
 Biden,1,Hispanic
-Biden,3,White
 Trump,2,White
 Biden,2,White
 Trump,2,White
@@ -20092,7 +19978,6 @@ Biden,2,White
 Trump,2,White
 Trump,1,White
 Trump,2,White
-Trump,4,White
 Trump,2,White
 Biden,2,White
 Trump,2,Hispanic
@@ -20110,7 +19995,6 @@ Biden,1,White
 Trump,1,Hispanic
 Trump,1,White
 Trump,2,White
-Biden,3,White
 Biden,2,White
 Trump,1,White
 Biden,1,Hispanic
@@ -20217,7 +20101,6 @@ Trump,1,Hispanic
 Biden,2,White
 Trump,2,White
 Trump,1,White
-Trump,4,White
 Trump,2,White
 Biden,1,Two or more races
 Biden,2,White
@@ -20485,7 +20368,6 @@ Biden,2,White
 Biden,2,White
 Biden,1,White
 Biden,2,White
-Biden,3,White
 Biden,2,Hispanic
 Biden,1,White
 Trump,1,White
@@ -21733,7 +21615,6 @@ Biden,1,White
 Trump,1,White
 Trump,1,Asian
 Trump,2,White
-Trump,4,Two or more races
 Biden,1,White
 Biden,1,White
 Biden,1,White
@@ -22530,7 +22411,6 @@ Biden,2,White
 Trump,2,Two or more races
 Trump,2,White
 Trump,2,White
-Biden,3,White
 Biden,1,White
 Biden,2,White
 Trump,2,White
@@ -22580,7 +22460,6 @@ Trump,1,Middle Eastern
 Biden,2,White
 Biden,2,White
 Trump,1,White
-Biden,4,White
 Trump,1,White
 Biden,2,Black
 Biden,2,White
@@ -22679,7 +22558,6 @@ Trump,1,White
 Trump,2,White
 Biden,1,Black
 Biden,2,White
-Biden,4,White
 Biden,2,Hispanic
 Trump,2,White
 Biden,1,White
@@ -22835,7 +22713,6 @@ Biden,2,White
 Trump,1,White
 Trump,1,White
 Biden,2,White
-Biden,4,White
 Trump,1,White
 Trump,2,White
 Biden,1,Two or more races
@@ -23028,7 +22905,6 @@ Biden,1,White
 Biden,2,White
 Biden,2,White
 Biden,2,Black
-Biden,3,White
 Biden,1,White
 Biden,1,White
 Biden,2,White
@@ -23083,7 +22959,6 @@ Trump,2,Hispanic
 Trump,2,White
 Biden,1,White
 Biden,1,White
-Biden,4,Hispanic
 Biden,1,White
 Biden,2,White
 Biden,2,White
@@ -23112,7 +22987,6 @@ Trump,1,Hispanic
 Biden,1,White
 Trump,2,Hispanic
 Trump,2,White
-Biden,3,White
 Biden,1,White
 Biden,1,White
 Biden,1,Black
@@ -23132,7 +23006,6 @@ Biden,2,White
 Trump,1,White
 Biden,2,White
 Trump,2,Two or more races
-Biden,3,White
 Trump,1,White
 Trump,1,White
 Trump,2,White
@@ -23315,7 +23188,6 @@ Biden,2,White
 Biden,2,White
 Biden,2,Black
 Biden,2,Other
-Biden,3,Two or more races
 Biden,2,Middle Eastern
 Biden,1,White
 Trump,2,White
@@ -23387,7 +23259,6 @@ Biden,1,White
 Trump,1,White
 Biden,1,White
 Biden,2,Middle Eastern
-Biden,3,Black
 Biden,1,Hispanic
 Trump,1,Two or more races
 Biden,2,Black
@@ -23948,7 +23819,6 @@ Trump,2,White
 Biden,2,Black
 Trump,1,Hispanic
 Trump,1,White
-Biden,3,White
 Biden,2,Black
 Biden,2,Black
 Biden,1,White
@@ -24273,7 +24143,6 @@ Trump,2,White
 Biden,2,White
 Biden,2,Black
 Biden,2,Native American
-Biden,3,White
 Biden,2,Black
 Biden,1,White
 Biden,2,Black
@@ -24469,7 +24338,6 @@ Trump,2,White
 Biden,2,White
 Biden,1,White
 Trump,2,Hispanic
-Biden,4,White
 Biden,1,Black
 Biden,2,White
 Biden,2,White
@@ -25235,7 +25103,6 @@ Trump,2,White
 Trump,2,White
 Biden,2,Black
 Biden,1,Black
-Trump,3,White
 Trump,2,White
 Biden,2,Black
 Biden,1,White
@@ -25282,7 +25149,6 @@ Biden,2,White
 Biden,1,White
 Biden,2,White
 Biden,2,White
-Biden,3,White
 Biden,1,White
 Biden,1,White
 Trump,2,Hispanic
@@ -25417,7 +25283,6 @@ Biden,2,Asian
 Trump,1,Middle Eastern
 Trump,2,Native American
 Trump,2,Hispanic
-Biden,3,White
 Biden,1,White
 Trump,1,White
 Biden,1,Black
@@ -25430,7 +25295,6 @@ Biden,1,Black
 Biden,2,White
 Trump,2,Middle Eastern
 Biden,2,White
-Biden,3,White
 Biden,2,White
 Biden,1,Hispanic
 Biden,2,White
@@ -25449,7 +25313,6 @@ Trump,1,Black
 Biden,1,White
 Biden,1,White
 Biden,2,White
-Biden,3,White
 Trump,2,Two or more races
 Trump,1,White
 Trump,1,White
@@ -25541,7 +25404,6 @@ Trump,2,White
 Biden,1,Black
 Biden,1,Hispanic
 Trump,1,White
-Biden,3,Middle Eastern
 Trump,2,Asian
 Biden,2,Asian
 Biden,2,White
@@ -25894,7 +25756,6 @@ Biden,2,White
 Trump,1,Hispanic
 Biden,1,White
 Trump,1,White
-Trump,3,Black
 Biden,1,Hispanic
 Trump,1,White
 Trump,1,White
@@ -25928,7 +25789,6 @@ Biden,2,White
 Biden,2,White
 Biden,2,Hispanic
 Trump,1,Two or more races
-Biden,3,White
 Biden,1,Two or more races
 Trump,2,Middle Eastern
 Trump,2,White
@@ -26097,7 +25957,6 @@ Biden,1,White
 Biden,1,White
 Trump,1,White
 Biden,2,White
-Biden,3,White
 Trump,2,White
 Biden,1,Black
 Trump,2,White
@@ -26121,7 +25980,6 @@ Biden,1,White
 Trump,2,White
 Trump,1,Hispanic
 Biden,1,White
-Trump,4,Black
 Trump,1,White
 Trump,2,Hispanic
 Trump,2,White
@@ -26174,7 +26032,6 @@ Biden,1,Black
 Trump,2,White
 Biden,2,White
 Biden,1,Black
-Biden,3,Middle Eastern
 Biden,2,White
 Trump,2,Hispanic
 Biden,2,White
@@ -26373,7 +26230,6 @@ Trump,2,White
 Biden,2,White
 Trump,2,White
 Trump,2,White
-Biden,3,Two or more races
 Trump,2,White
 Trump,2,White
 Biden,2,Black
@@ -26499,7 +26355,6 @@ Trump,1,White
 Trump,1,White
 Trump,1,Black
 Biden,2,White
-Biden,3,Two or more races
 Biden,1,White
 Biden,1,Hispanic
 Biden,1,White
@@ -26548,10 +26403,8 @@ Biden,2,Hispanic
 Trump,2,Black
 Biden,1,White
 Trump,2,White
-Biden,3,White
 Trump,2,White
 Biden,1,Hispanic
-Biden,4,Two or more races
 Biden,1,Hispanic
 Trump,1,Middle Eastern
 Biden,2,White
@@ -26871,7 +26724,6 @@ Trump,1,White
 Trump,2,White
 Biden,1,Middle Eastern
 Biden,1,Hispanic
-Biden,3,White
 Trump,1,White
 Biden,1,White
 Biden,1,White
@@ -26916,7 +26768,6 @@ Biden,2,Black
 Biden,2,White
 Biden,2,White
 Trump,2,White
-Biden,3,White
 Biden,1,Black
 Trump,2,White
 Biden,1,Black
@@ -27189,7 +27040,6 @@ Trump,2,Hispanic
 Biden,1,Black
 Biden,2,White
 Biden,1,Black
-Biden,3,Middle Eastern
 Biden,1,Hispanic
 Trump,2,White
 Trump,2,Hispanic
@@ -27406,7 +27256,6 @@ Biden,2,White
 Biden,1,White
 Biden,2,Hispanic
 Biden,2,Asian
-Biden,4,White
 Trump,2,White
 Trump,2,Hispanic
 Trump,1,Black
@@ -27874,7 +27723,6 @@ Biden,2,Hispanic
 Biden,2,White
 Trump,2,White
 Biden,2,White
-Biden,3,Hispanic
 Trump,2,White
 Biden,1,Black
 Biden,1,Middle Eastern
@@ -27986,7 +27834,6 @@ Biden,1,Black
 Biden,2,White
 Trump,1,White
 Trump,1,White
-Biden,3,White
 Biden,1,White
 Trump,1,White
 Biden,1,White
@@ -28212,7 +28059,6 @@ Biden,2,White
 Trump,1,White
 Trump,2,White
 Biden,1,Hispanic
-Biden,3,Hispanic
 Trump,2,White
 Biden,2,Black
 Trump,2,Hispanic
@@ -28732,7 +28578,6 @@ Trump,2,White
 Trump,1,White
 Biden,2,White
 Biden,2,Hispanic
-Trump,4,White
 Biden,1,White
 Biden,2,White
 Biden,1,White
@@ -29012,7 +28857,6 @@ Trump,1,White
 Biden,2,White
 Biden,2,Asian
 Trump,1,White
-Biden,4,White
 Biden,2,White
 Biden,1,White
 Trump,1,White
@@ -29719,7 +29563,6 @@ Biden,1,White
 Trump,1,Black
 Biden,2,White
 Biden,1,White
-Biden,3,White
 Trump,1,Black
 Biden,1,White
 Biden,2,Black
@@ -29758,7 +29601,6 @@ Trump,1,White
 Biden,2,Black
 Biden,2,White
 Trump,1,White
-Biden,3,Hispanic
 Trump,2,White
 Biden,1,Hispanic
 Biden,2,White
@@ -29945,7 +29787,6 @@ Biden,1,Black
 Biden,1,Hispanic
 Biden,2,Black
 Biden,2,White
-Biden,3,Black
 Trump,2,Hispanic
 Biden,1,White
 Biden,2,White
@@ -30114,7 +29955,6 @@ Biden,2,Black
 Biden,2,White
 Biden,2,Black
 Biden,1,Black
-Biden,4,Middle Eastern
 Biden,2,Hispanic
 Trump,1,White
 Biden,2,Black
@@ -30550,7 +30390,6 @@ Biden,2,White
 Biden,1,White
 Biden,1,White
 Biden,1,White
-Trump,4,Hispanic
 Biden,2,White
 Biden,2,Black
 Biden,1,White
@@ -30748,20 +30587,17 @@ Biden,1,White
 Biden,1,White
 Biden,2,Hispanic
 Biden,2,Asian
-Biden,3,Two or more races
 Trump,1,White
 Biden,2,Black
 Trump,2,White
 Biden,1,Hispanic
 Biden,2,Black
-Biden,4,White
 Biden,1,Black
 Biden,2,Middle Eastern
 Trump,1,Hispanic
 Trump,2,White
 Biden,1,Black
 Biden,2,White
-Biden,4,Middle Eastern
 Trump,1,White
 Trump,1,Two or more races
 Trump,1,Black
@@ -31618,7 +31454,6 @@ Trump,2,White
 Biden,2,Black
 Biden,2,Black
 Biden,2,Hispanic
-Biden,3,White
 Biden,2,Black
 Trump,1,White
 Trump,1,White
@@ -31631,7 +31466,6 @@ Biden,1,White
 Biden,1,Black
 Biden,2,Black
 Biden,1,White
-Biden,3,Hispanic
 Biden,2,Black
 Trump,1,White
 Trump,1,White
@@ -32244,7 +32078,6 @@ Trump,2,White
 Trump,2,White
 Trump,2,White
 Biden,1,White
-Biden,3,Middle Eastern
 Biden,2,Black
 Biden,1,Hispanic
 Trump,2,White
@@ -32435,7 +32268,6 @@ Biden,2,Black
 Biden,1,Hispanic
 Trump,1,White
 Biden,2,Black
-Trump,3,White
 Biden,2,White
 Trump,1,White
 Trump,1,White
@@ -32658,7 +32490,6 @@ Biden,2,Black
 Biden,1,Black
 Biden,1,Black
 Trump,1,White
-Biden,4,Hispanic
 Biden,1,White
 Trump,1,White
 Biden,2,Black
@@ -32788,7 +32619,6 @@ Biden,2,Black
 Biden,2,Black
 Biden,2,Black
 Trump,1,White
-Trump,4,White
 Biden,1,Black
 Biden,2,Black
 Trump,2,Black
@@ -33087,7 +32917,6 @@ Trump,2,Black
 Trump,1,White
 Biden,1,White
 Biden,1,White
-Biden,3,Hispanic
 Biden,1,Black
 Biden,1,Middle Eastern
 Biden,1,White
@@ -33127,7 +32956,6 @@ Trump,1,White
 Biden,2,Black
 Trump,2,White
 Trump,1,White
-Trump,3,Hispanic
 Biden,1,Black
 Biden,1,White
 Trump,1,White
@@ -33223,7 +33051,6 @@ Biden,2,Hispanic
 Trump,1,White
 Biden,2,Black
 Trump,2,White
-Biden,3,White
 Trump,2,White
 Biden,2,White
 Trump,2,White
@@ -33321,7 +33148,6 @@ Biden,1,White
 Biden,2,White
 Trump,2,White
 Trump,2,White
-Biden,3,White
 Trump,1,White
 Biden,2,White
 Trump,2,White
@@ -33386,7 +33212,6 @@ Trump,1,White
 Trump,1,White
 Biden,2,Black
 Trump,1,White
-Biden,3,White
 Biden,2,Hispanic
 Biden,2,White
 Biden,1,White
@@ -33436,7 +33261,6 @@ Biden,2,Black
 Trump,1,White
 Biden,2,White
 Trump,1,White
-Biden,3,White
 Biden,2,Black
 Biden,1,White
 Biden,2,Black
@@ -33470,7 +33294,6 @@ Biden,2,Hispanic
 Trump,1,Black
 Biden,1,Hispanic
 Biden,1,White
-Biden,3,White
 Trump,1,White
 Biden,2,White
 Trump,1,White
@@ -33534,7 +33357,6 @@ Trump,2,White
 Biden,2,White
 Biden,2,White
 Trump,1,Hispanic
-Biden,3,Asian
 Biden,2,White
 Trump,1,Hispanic
 Trump,1,White
@@ -33672,7 +33494,6 @@ Biden,1,White
 Biden,1,White
 Biden,2,Black
 Biden,1,White
-Biden,4,White
 Biden,2,White
 Trump,2,White
 Biden,2,Hispanic
@@ -33690,7 +33511,6 @@ Trump,1,White
 Biden,1,White
 Biden,1,White
 Biden,1,White
-Trump,4,White
 Trump,2,White
 Biden,2,White
 Biden,2,White
@@ -33835,7 +33655,6 @@ Biden,2,White
 Biden,2,White
 Trump,2,White
 Trump,2,White
-Biden,3,White
 Biden,2,White
 Biden,2,Middle Eastern
 Biden,2,White
@@ -33872,7 +33691,6 @@ Biden,2,White
 Trump,2,White
 Biden,2,White
 Biden,1,White
-Biden,3,Native American
 Biden,1,Black
 Biden,2,White
 Biden,2,White
@@ -34005,7 +33823,6 @@ Biden,2,White
 Biden,2,White
 Biden,2,White
 Biden,1,White
-Biden,3,White
 Biden,1,White
 Trump,1,Middle Eastern
 Biden,1,White
@@ -34134,7 +33951,6 @@ Biden,2,White
 Biden,2,White
 Biden,2,White
 Trump,2,White
-Biden,3,White
 Biden,2,White
 Biden,2,Black
 Biden,2,White
@@ -34159,7 +33975,6 @@ Trump,1,White
 Biden,2,White
 Biden,1,White
 Biden,2,White
-Trump,4,White
 Biden,1,White
 Biden,2,White
 Biden,2,White
@@ -34487,7 +34302,6 @@ Trump,2,White
 Biden,2,White
 Biden,1,Black
 Biden,2,White
-Biden,3,White
 Trump,1,White
 Trump,1,White
 Biden,2,Other
@@ -34579,7 +34393,6 @@ Trump,2,Black
 Trump,2,Hispanic
 Trump,2,Native American
 Biden,1,Two or more races
-Biden,4,White
 Biden,2,White
 Biden,1,Black
 Trump,2,White
@@ -34717,7 +34530,6 @@ Biden,2,White
 Trump,1,White
 Biden,2,Middle Eastern
 Biden,1,White
-Biden,3,Black
 Trump,2,White
 Trump,1,White
 Biden,2,White
@@ -34769,7 +34581,6 @@ Biden,2,Black
 Biden,1,Asian
 Biden,2,White
 Trump,1,White
-Biden,3,White
 Trump,1,White
 Trump,1,White
 Biden,2,Black
@@ -34784,7 +34595,6 @@ Trump,1,White
 Biden,2,Black
 Trump,1,White
 Trump,2,White
-Biden,3,Asian
 Biden,2,Black
 Trump,2,White
 Biden,1,White
@@ -34882,7 +34692,6 @@ Biden,2,Black
 Trump,1,White
 Biden,1,Asian
 Biden,1,Black
-Biden,3,White
 Trump,1,White
 Biden,1,White
 Biden,1,White
@@ -34926,7 +34735,6 @@ Trump,1,White
 Biden,2,White
 Trump,1,White
 Trump,2,White
-Biden,3,White
 Trump,2,Hispanic
 Biden,2,Black
 Biden,2,Native American
@@ -35175,7 +34983,6 @@ Biden,1,Black
 Biden,1,Black
 Trump,1,White
 Trump,1,Black
-Biden,3,White
 Trump,2,White
 Biden,2,Black
 Biden,1,White
@@ -35223,7 +35030,6 @@ Trump,2,White
 Biden,2,White
 Trump,1,White
 Trump,1,White
-Biden,3,White
 Biden,2,Black
 Biden,2,Hispanic
 Biden,1,White
@@ -35402,7 +35208,6 @@ Trump,1,Two or more races
 Trump,2,White
 Biden,2,Black
 Biden,1,White
-Biden,3,Middle Eastern
 Trump,2,Hispanic
 Biden,2,Hispanic
 Trump,2,White
@@ -35445,7 +35250,6 @@ Biden,2,Hispanic
 Biden,1,Hispanic
 Biden,1,Two or more races
 Trump,2,Hispanic
-Biden,3,White
 Trump,1,White
 Biden,2,Black
 Biden,1,White
@@ -35477,7 +35281,6 @@ Biden,2,Hispanic
 Biden,1,Middle Eastern
 Biden,1,Hispanic
 Biden,2,Black
-Biden,4,Other
 Trump,1,White
 Biden,1,Middle Eastern
 Trump,2,Hispanic
@@ -35505,7 +35308,6 @@ Biden,1,White
 Trump,1,White
 Biden,2,Asian
 Biden,2,Black
-Biden,3,Black
 Trump,1,White
 Trump,2,Hispanic
 Biden,2,Black
@@ -35521,7 +35323,6 @@ Biden,1,White
 Trump,1,Black
 Biden,1,Hispanic
 Trump,1,White
-Biden,3,White
 Biden,2,Hispanic
 Trump,1,Hispanic
 Biden,1,Black
@@ -35573,7 +35374,6 @@ Trump,2,White
 Biden,1,Black
 Trump,1,Hispanic
 Trump,2,White
-Biden,3,White
 Trump,1,White
 Biden,2,Hispanic
 Biden,2,White
@@ -36209,7 +36009,6 @@ Trump,1,White
 Trump,2,White
 Biden,1,Black
 Trump,2,Hispanic
-Biden,3,Hispanic
 Trump,1,White
 Biden,2,Black
 Biden,2,Hispanic
@@ -36238,7 +36037,6 @@ Trump,2,White
 Trump,2,Hispanic
 Trump,1,White
 Trump,2,Black
-Trump,3,Black
 Trump,1,White
 Biden,2,Middle Eastern
 Biden,1,Asian
@@ -36425,7 +36223,6 @@ Trump,2,White
 Trump,1,White
 Biden,1,White
 Trump,1,White
-Biden,3,White
 Trump,2,White
 Biden,1,Native American
 Trump,1,Black
@@ -37013,7 +36810,6 @@ Biden,1,White
 Trump,2,White
 Biden,2,White
 Biden,1,White
-Biden,3,White
 Trump,2,White
 Biden,1,White
 Biden,2,White
@@ -37028,7 +36824,6 @@ Trump,2,White
 Biden,2,White
 Biden,2,White
 Trump,2,White
-Biden,3,Asian
 Biden,2,Asian
 Biden,2,White
 Biden,2,White
@@ -37094,7 +36889,6 @@ Trump,2,White
 Biden,2,White
 Trump,2,White
 Biden,1,White
-Trump,4,White
 Biden,2,White
 Biden,2,White
 Biden,2,Black
@@ -37153,7 +36947,6 @@ Biden,2,Hispanic
 Trump,2,White
 Biden,2,White
 Biden,2,White
-Biden,3,White
 Biden,1,Black
 Biden,2,White
 Biden,2,White
@@ -37420,7 +37213,6 @@ Trump,1,Two or more races
 Biden,2,Black
 Trump,1,White
 Trump,2,White
-Biden,3,White
 Trump,2,Hispanic
 Biden,2,White
 Trump,1,White
@@ -37523,7 +37315,6 @@ Biden,1,Black
 Trump,1,White
 Trump,1,White
 Biden,1,Black
-Biden,3,White
 Biden,2,Black
 Biden,1,Black
 Trump,2,White
@@ -37641,7 +37432,6 @@ Biden,2,Black
 Biden,2,Two or more races
 Trump,1,White
 Trump,2,Asian
-Trump,4,White
 Biden,1,White
 Trump,2,White
 Trump,1,White
@@ -37684,10 +37474,8 @@ Biden,2,Black
 Biden,2,Black
 Biden,2,White
 Biden,2,Black
-Biden,3,White
 Biden,2,Black
 Biden,1,White
-Biden,3,White
 Biden,1,White
 Trump,1,White
 Biden,2,Hispanic
@@ -37747,7 +37535,6 @@ Biden,1,Black
 Biden,2,Black
 Biden,2,Black
 Biden,1,Black
-Biden,3,Middle Eastern
 Biden,2,Black
 Trump,2,Hispanic
 Biden,1,White
@@ -37778,13 +37565,11 @@ Trump,1,White
 Biden,1,White
 Trump,2,Hispanic
 Trump,1,White
-Biden,3,White
 Trump,1,White
 Biden,1,White
 Trump,1,Hispanic
 Biden,2,Hispanic
 Trump,1,White
-Biden,3,White
 Biden,2,Black
 Trump,1,White
 Trump,1,White
@@ -38260,7 +38045,6 @@ Biden,2,Asian
 Trump,1,White
 Trump,1,White
 Biden,1,Two or more races
-Biden,3,White
 Trump,2,Hispanic
 Biden,2,White
 Biden,1,White
@@ -38601,7 +38385,6 @@ Biden,2,Black
 Biden,1,White
 Biden,2,White
 Trump,1,White
-Biden,3,Hispanic
 Trump,2,White
 Biden,2,White
 Biden,1,White
@@ -38629,7 +38412,6 @@ Biden,2,White
 Trump,2,White
 Trump,1,White
 Trump,1,White
-Biden,4,White
 Biden,2,Black
 Trump,1,White
 Biden,2,Black
@@ -38758,7 +38540,6 @@ Biden,2,White
 Biden,1,White
 Biden,2,White
 Biden,2,White
-Biden,3,Hispanic
 Trump,2,White
 Trump,2,White
 Trump,1,White
@@ -38951,7 +38732,6 @@ Trump,2,White
 Biden,1,White
 Biden,2,White
 Biden,1,White
-Biden,3,Hispanic
 Trump,2,White
 Biden,2,White
 Trump,1,White
@@ -39111,7 +38891,6 @@ Biden,2,Two or more races
 Biden,1,White
 Biden,1,White
 Biden,1,White
-Trump,3,Middle Eastern
 Biden,1,Black
 Biden,1,White
 Biden,1,White
@@ -39361,7 +39140,6 @@ Biden,2,Black
 Trump,1,White
 Biden,2,White
 Trump,1,White
-Biden,3,Asian
 Trump,1,White
 Biden,1,White
 Trump,1,White
@@ -39838,7 +39616,6 @@ Biden,1,White
 Biden,2,White
 Trump,2,White
 Trump,1,White
-Biden,3,White
 Biden,2,Hispanic
 Biden,1,White
 Biden,1,Asian
@@ -39846,7 +39623,6 @@ Trump,1,White
 Trump,1,White
 Trump,1,White
 Biden,2,White
-Biden,3,Black
 Biden,2,Asian
 Biden,2,White
 Biden,1,White
@@ -39934,7 +39710,6 @@ Trump,2,Hispanic
 Biden,2,Black
 Biden,1,Black
 Trump,2,Hispanic
-Biden,3,White
 Trump,2,White
 Biden,2,Black
 Trump,1,White
@@ -39983,7 +39758,6 @@ Trump,1,White
 Trump,2,White
 Biden,2,Black
 Trump,2,White
-Biden,3,White
 Biden,2,White
 Trump,1,White
 Trump,2,White
@@ -40085,7 +39859,6 @@ Biden,2,White
 Biden,2,White
 Biden,2,White
 Trump,1,Hispanic
-Biden,3,Middle Eastern
 Trump,2,White
 Biden,1,White
 Biden,2,Asian
@@ -40100,7 +39873,6 @@ Biden,1,White
 Trump,1,White
 Trump,2,White
 Biden,1,White
-Biden,3,Hispanic
 Trump,1,White
 Trump,2,White
 Trump,2,Hispanic
@@ -40193,7 +39965,6 @@ Biden,1,White
 Biden,2,White
 Biden,1,White
 Trump,2,White
-Biden,3,White
 Biden,1,Hispanic
 Trump,1,Black
 Trump,1,Hispanic
@@ -40577,7 +40348,6 @@ Trump,2,Hispanic
 Biden,1,Asian
 Trump,1,White
 Biden,1,Hispanic
-Biden,3,White
 Biden,2,Hispanic
 Trump,2,White
 Trump,2,White
@@ -40645,7 +40415,6 @@ Biden,2,White
 Biden,1,White
 Biden,1,Black
 Biden,2,White
-Biden,3,Black
 Biden,2,Hispanic
 Biden,1,White
 Biden,2,Black
@@ -40689,7 +40458,6 @@ Biden,1,Hispanic
 Biden,2,Middle Eastern
 Trump,1,White
 Trump,1,White
-Biden,3,Hispanic
 Biden,2,White
 Trump,2,White
 Biden,2,White
@@ -41185,7 +40953,6 @@ Biden,1,White
 Biden,1,Two or more races
 Biden,1,White
 Trump,2,White
-Biden,3,Black
 Trump,1,White
 Biden,1,White
 Trump,2,White
@@ -41237,7 +41004,6 @@ Trump,1,White
 Trump,2,White
 Biden,1,White
 Trump,1,White
-Biden,3,Black
 Biden,2,White
 Biden,2,Black
 Biden,1,White
@@ -41444,7 +41210,6 @@ Trump,1,Two or more races
 Biden,1,White
 Biden,1,Middle Eastern
 Biden,2,Asian
-Biden,3,Black
 Biden,2,White
 Trump,1,White
 Trump,1,White
@@ -41543,7 +41308,6 @@ Biden,2,White
 Biden,1,Black
 Biden,2,Hispanic
 Biden,2,White
-Biden,3,White
 Trump,1,White
 Trump,1,Hispanic
 Biden,1,White
@@ -41575,7 +41339,6 @@ Biden,2,White
 Biden,1,White
 Biden,1,Black
 Trump,1,White
-Biden,3,Two or more races
 Biden,1,White
 Biden,1,White
 Biden,1,Hispanic
@@ -41825,7 +41588,6 @@ Trump,1,White
 Biden,1,Hispanic
 Biden,2,Asian
 Biden,1,White
-Biden,3,Hispanic
 Trump,1,White
 Biden,1,White
 Biden,2,White
@@ -42264,7 +42026,6 @@ Biden,2,White
 Biden,2,White
 Biden,2,White
 Biden,2,White
-Trump,3,White
 Biden,2,White
 Trump,1,White
 Biden,1,White
@@ -42451,7 +42212,6 @@ Trump,1,White
 Biden,2,White
 Biden,2,White
 Biden,1,White
-Biden,3,Hispanic
 Biden,2,Hispanic
 Trump,1,Asian
 Trump,1,Hispanic
@@ -42866,7 +42626,6 @@ Biden,1,White
 Biden,1,Middle Eastern
 Biden,1,White
 Biden,1,White
-Biden,3,Hispanic
 Biden,2,White
 Biden,2,Black
 Biden,1,White
@@ -42949,7 +42708,6 @@ Trump,2,White
 Biden,2,White
 Trump,1,Hispanic
 Biden,1,Black
-Biden,3,White
 Trump,2,White
 Biden,2,White
 Biden,2,Black
@@ -43169,7 +42927,6 @@ Biden,1,White
 Trump,2,White
 Biden,1,Black
 Biden,2,Hispanic
-Biden,3,White
 Biden,2,Black
 Biden,1,White
 Biden,2,Black
@@ -43191,7 +42948,6 @@ Biden,2,Black
 Trump,2,White
 Trump,1,Middle Eastern
 Trump,1,White
-Biden,4,White
 Biden,1,Black
 Biden,1,Black
 Biden,2,Hispanic
@@ -43239,7 +42995,6 @@ Biden,2,Black
 Biden,2,Hispanic
 Trump,2,White
 Biden,2,Hispanic
-Trump,4,Two or more races
 Biden,2,Black
 Trump,2,Two or more races
 Trump,1,White
@@ -43257,7 +43012,6 @@ Biden,2,White
 Biden,2,Black
 Biden,2,White
 Biden,2,Middle Eastern
-Biden,3,Native American
 Biden,2,Black
 Trump,1,White
 Biden,1,White
@@ -43422,7 +43176,6 @@ Trump,2,White
 Trump,2,White
 Biden,2,White
 Trump,2,White
-Biden,3,White
 Biden,2,White
 Biden,2,White
 Trump,1,White
@@ -43458,7 +43211,6 @@ Biden,2,White
 Trump,1,White
 Biden,2,White
 Trump,2,White
-Biden,3,White
 Trump,2,White
 Biden,1,White
 Trump,2,White
@@ -43610,7 +43362,6 @@ Trump,2,White
 Biden,1,White
 Trump,2,White
 Trump,2,White
-Biden,3,White
 Biden,2,White
 Trump,1,White
 Trump,2,White
@@ -43710,7 +43461,6 @@ Biden,2,White
 Biden,1,White
 Biden,1,Hispanic
 Biden,2,White
-Biden,4,White
 Biden,2,White
 Biden,1,White
 Trump,2,White
@@ -43765,7 +43515,6 @@ Biden,1,White
 Trump,1,White
 Trump,1,White
 Trump,1,White
-Biden,3,White
 Biden,1,White
 Biden,1,White
 Biden,1,White
@@ -43897,7 +43646,6 @@ Trump,1,White
 Biden,2,Black
 Trump,1,White
 Biden,1,Black
-Trump,4,Hispanic
 Trump,2,Black
 Trump,1,Asian
 Trump,2,White
@@ -44081,7 +43829,6 @@ Trump,1,White
 Biden,2,White
 Biden,1,White
 Biden,1,White
-Biden,3,White
 Biden,1,Black
 Trump,2,Two or more races
 Trump,1,White
@@ -44240,7 +43987,6 @@ Biden,1,White
 Biden,1,White
 Trump,1,White
 Biden,1,White
-Biden,3,White
 Biden,1,White
 Trump,1,White
 Trump,2,White
@@ -45335,8 +45081,6 @@ Trump,1,White
 Biden,1,White
 Trump,1,Hispanic
 Trump,1,White
-Biden,3,Middle Eastern
-Trump,4,Native American
 Trump,1,Hispanic
 Biden,1,Black
 Biden,1,Asian
@@ -45461,7 +45205,6 @@ Biden,1,Hispanic
 Biden,2,White
 Biden,2,Hispanic
 Trump,1,Native American
-Biden,3,White
 Biden,2,Asian
 Trump,1,Middle Eastern
 Trump,1,Native American
@@ -45506,7 +45249,6 @@ Biden,2,Black
 Biden,2,Hispanic
 Trump,2,White
 Biden,2,Black
-Biden,3,White
 Trump,2,Asian
 Biden,1,Two or more races
 Biden,1,White
@@ -45600,7 +45342,6 @@ Biden,2,Hispanic
 Biden,2,Hispanic
 Biden,1,Hispanic
 Biden,1,White
-Biden,3,White
 Trump,2,Hispanic
 Trump,1,Asian
 Biden,2,Black
@@ -45636,7 +45377,6 @@ Biden,2,Black
 Biden,2,Middle Eastern
 Biden,1,Hispanic
 Trump,1,Middle Eastern
-Biden,3,White
 Biden,2,Middle Eastern
 Biden,2,Hispanic
 Trump,1,Hispanic
@@ -45701,7 +45441,6 @@ Trump,2,White
 Biden,2,Black
 Biden,2,Black
 Trump,1,White
-Biden,3,White
 Biden,2,Hispanic
 Trump,1,White
 Biden,1,White
@@ -45948,7 +45687,6 @@ Biden,1,White
 Biden,2,White
 Trump,1,White
 Trump,2,White
-Biden,4,White
 Trump,1,White
 Trump,1,White
 Trump,2,White
@@ -46046,7 +45784,6 @@ Trump,2,White
 Biden,1,White
 Biden,2,Black
 Biden,2,Black
-Biden,3,White
 Biden,2,Black
 Trump,1,White
 Trump,1,White
@@ -46116,7 +45853,6 @@ Biden,1,Hispanic
 Biden,2,Hispanic
 Biden,2,White
 Biden,2,White
-Biden,4,White
 Biden,2,Black
 Trump,2,White
 Trump,2,White
@@ -46425,7 +46161,6 @@ Biden,2,White
 Biden,1,White
 Trump,1,White
 Biden,2,White
-Biden,3,White
 Biden,2,White
 Biden,1,White
 Trump,1,White
@@ -46499,13 +46234,11 @@ Trump,1,White
 Trump,2,White
 Biden,1,White
 Trump,1,Black
-Biden,3,White
 Biden,1,White
 Trump,1,Middle Eastern
 Biden,1,Hispanic
 Biden,2,Black
 Trump,2,White
-Biden,3,Middle Eastern
 Trump,2,White
 Trump,1,White
 Trump,1,Hispanic
@@ -46599,7 +46332,6 @@ Trump,1,Middle Eastern
 Biden,2,Middle Eastern
 Biden,1,White
 Biden,2,Black
-Biden,3,White
 Biden,1,White
 Biden,2,White
 Biden,2,White
@@ -46711,7 +46443,6 @@ Biden,2,Hispanic
 Trump,1,White
 Biden,1,White
 Biden,1,White
-Biden,4,Hispanic
 Biden,2,White
 Biden,1,White
 Biden,2,Hispanic
@@ -46808,7 +46539,6 @@ Biden,2,White
 Trump,1,White
 Trump,1,White
 Trump,1,Black
-Biden,3,White
 Biden,1,White
 Biden,1,White
 Trump,2,White
@@ -46898,7 +46628,6 @@ Biden,2,Hispanic
 Biden,1,White
 Trump,2,White
 Biden,2,White
-Biden,3,White
 Trump,1,White
 Biden,2,White
 Biden,1,White
@@ -46972,7 +46701,6 @@ Trump,2,White
 Trump,1,White
 Biden,2,White
 Biden,1,Black
-Biden,3,White
 Trump,1,White
 Trump,2,White
 Biden,2,White
@@ -47033,7 +46761,6 @@ Trump,1,White
 Trump,1,Middle Eastern
 Biden,1,Black
 Biden,1,White
-Biden,3,Asian
 Trump,1,White
 Biden,1,White
 Biden,1,Asian
@@ -47084,7 +46811,6 @@ Biden,1,White
 Biden,2,Black
 Trump,2,White
 Biden,1,White
-Trump,3,White
 Trump,2,White
 Biden,2,White
 Biden,2,Hispanic
@@ -47183,7 +46909,6 @@ Biden,1,Middle Eastern
 Biden,2,Black
 Trump,1,White
 Biden,2,Black
-Biden,3,Hispanic
 Biden,1,Hispanic
 Biden,1,White
 Trump,2,White
@@ -47194,7 +46919,6 @@ Trump,1,Middle Eastern
 Trump,2,Hispanic
 Trump,2,Black
 Biden,1,Black
-Biden,3,White
 Biden,1,Black
 Biden,2,Black
 Biden,2,Asian
@@ -47239,7 +46963,6 @@ Biden,1,White
 Biden,2,White
 Trump,1,White
 Trump,1,White
-Biden,3,White
 Trump,2,Hispanic
 Biden,2,Black
 Biden,1,White
@@ -47375,7 +47098,6 @@ Trump,1,White
 Trump,2,Asian
 Biden,1,Asian
 Trump,2,Two or more races
-Biden,3,White
 Biden,1,White
 Biden,1,Black
 Biden,2,Black
@@ -47408,7 +47130,6 @@ Trump,1,White
 Biden,1,White
 Biden,2,Black
 Biden,2,Middle Eastern
-Biden,3,Hispanic
 Trump,2,Hispanic
 Trump,1,White
 Trump,1,Hispanic
