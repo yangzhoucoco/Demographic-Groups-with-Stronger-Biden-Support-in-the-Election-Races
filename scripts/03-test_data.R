@@ -13,10 +13,9 @@ library(tidyverse)
 library(testthat)
 
 #### Test data ####
-#12.3.1 test that
-simulated_data <- read.csv("data/simulated_data/simulated_data.csv")
+simulate_data <- read.csv("data/simulate_data/simulate_data.csv")
 test_that("Check class", {
-  expect_type(simulated_data$education, "character")
-  expect_type(simulated_data$gender, "character")
+  expect_type(cleaned_data$race, "character")
+  expect_type(cleaned_data$gender, "character")
 })
 

@@ -11,14 +11,21 @@
 #### Workspace setup ####
 library(tidyverse)
 library(rstanarm)
+library(modelsummary)
 
 #### Read data ####
 analysis_data <- read_csv("data/analysis_data/analysis_data.csv")
 
 ### Model data ####
-political_preferences <-
+set.seed(853)
+
+ces2022_reduced <- 
+  ces2022 |> 
+  slice_sample(n = 500)
+
+us_political_preferences <-
   stan_glm(
-    factor(voted_for) ~ gender + education,
+    factor(voted_for) ~ gender4 + race,
     data = analysis_data,
     family = binomial(link = "logit"),
     prior = normal(location = 0, scale = 2.5, autoscale = TRUE),
@@ -31,8 +38,16 @@ political_preferences <-
 
 #### Save model ####
 saveRDS(
-  political_preferences,
+  us_political_preferences,
   file = "model/first_model.rds"
+)
+
+
+modelsummary(
+  list(
+    "Support Biden" = us_political_preferences
+  ),
+  statistic = "mad"
 )
 
 
