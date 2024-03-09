@@ -14,16 +14,16 @@ library(tidyverse)
 
 
 #### Download data ####
-ces2020 <-
+ces2022 <-
   get_dataframe_by_name(
-    filename = "CES20_Common_OUTPUT_vv.csv",
-    dataset = "10.7910/DVN/E9N6PH",
+    filename = "CCES22_Common_OUTPUT_vv_topost.csv",
+    dataset = "10.7910/DVN/PR4L8P",
     server = "dataverse.harvard.edu",
     .f = read_csv
   ) |>
-  select(votereg, CC20_410, gender, educ)
+  select(votereg, presvote20post, race, sexuality)
 
-write_csv(ces2020, "data/raw_data/raw_data.csv")
+write_csv(ces2022, "data/raw_data/raw_data.csv")
 
 
 
