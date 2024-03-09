@@ -136,7 +136,7 @@ first_model <-
 
 modelsummary::modelsummary(
   list(
-    "Support Biden" = political_preferences
+    "Support Biden" = us_political_preferences
   ),
   statistic = "mad",
   fmt = 2
