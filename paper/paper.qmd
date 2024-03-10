@@ -34,6 +34,12 @@ For the actual data we can use the 2022 Cooperative Election Study (CES) (@main_
 
 ## Source and Methodology
 
+## Sampling and Sampling Matching
+
+## Weightening
+
+##Vote Vaildation
+
 ## Variables
 ```{r}
 #| label: fig-variables

@@ -95,52 +95,52 @@ Extract of the questions from @gebru2021datasheets.
 10. *If consent was obtained, were the consenting individuals provided with a mechanism to revoke their consent in the future or for certain uses? If so, please provide a description, as well as a link or other access point to the mechanism (if appropriate).*
 	- The dataset does not provide specific information about whether individuals were given a mechanism to revoke their consent after agreeing to participate in the 2022 Cooperative Election Study (CES) or for certain uses of their data. 
 11. *Has an analysis of the potential impact of the dataset and its use on data subjects (for example, a data protection impact analysis) been conducted? If so, please provide a description of this analysis, including the outcomes, as well as a link or other access point to any supporting documentation.*
-	- TBD
+	- The provided CES Guide 2022 document does not specifically describe conducting a data protection impact analysis. It emphasizes on on the methodology, sample matching, data collection, 
 12. *Any other comments?*
-	- TBD
+	- No
 
 **Preprocessing/cleaning/labeling**
 
 1. *Was any preprocessing/cleaning/labeling of the data done (for example, discretization or bucketing, tokenization, part-of-speech tagging, SIFT feature extraction, removal of instances, processing of missing values)? If so, please provide a description. If not, you may skip the remaining questions in this section.*
-	- TBD
+	- Yes, CES involves some data preprocessing, cleaning, and labeling to make sure the quality of the data. The descriptions have been included in the sampling methodology, matching procedures, and weighting processes. CES done 3 things, which are sampling and sample matching, weighting, and vote validation.To be more specific, in order to correct for any residual imbalances between the matched sample and the target population, the CES data was weight through 2 steps. First, using entropy balancing to match the distributions of the frame on key demographic variables (age, gender, education, race, etc.), and then using iterative proportional fitting ("raking") on additional variables (like voter registration status and 2020 Presidential vote choice) to further refine the representativeness of the sample. 
 2. *Was the "raw" data saved in addition to the preprocessed/cleaned/labeled data (for example, to support unanticipated future uses)? If so, please provide a link or other access point to the "raw" data.*
-	- TBD
+	- The CES Guide 2022 does not explicitly mention whether the "raw" data save in addition to the preprocessed/cleaned/labeled data.
 3. *Is the software that was used to preprocess/clean/label the data available? If so, please provide a link or other access point.*
-	- TBD
+	- No.
 4. *Any other comments?*
-	- TBD
+	- No.
 
 **Uses**
 
 1. *Has the dataset been used for any tasks already? If so, please provide a description.*
-	- TBD
+	- The CES Guide 2022 does not provide specific examples of tasks for which the dataset has already been used.
 2. *Is there a repository that links to any or all papers or systems that use the dataset? If so, please provide a link or other access point.*
-	- TBD
+	- The CES Guide 2022 does not explicitly mention a repository that links to paper.
 3. *What (other) tasks could the dataset be used for?*
-	- TBD
+	- There are multiple task that the dataset can be used for. For example, to analyze voting behavior and study the impact of socioeconomic factor on political outcome.
 4. *Is there anything about the composition of the dataset or the way it was collected and preprocessed/cleaned/labeled that might impact future uses? For example, is there anything that a dataset consumer might need to know to avoid uses that could result in unfair treatment of individuals or groups (for example, stereotyping, quality of service issues) or other risks or harms (for example, legal risks, financial harms)? If so, please provide a description. Is there anything a dataset consumer could do to mitigate these risks or harms?*
-	- TBD
+	- Yes.The methodology section details efforts to create a representative sample and address potential biases through sample matching, weighting, and vote validation in order to avoid representation bias.The customer can ensure all research complies with applicable laws, ethical standards, and best practices for data privacy and protection.
 5. *Are there tasks for which the dataset should not be used? If so, please provide a description.*
-	- TBD
+	- No.
 6. *Any other comments?*
-	- TBD
+	- No.
 
 **Distribution**
 
 1. *Will the dataset be distributed to third parties outside of the entity (for example, company, institution, organization) on behalf of which the dataset was created? If so, please provide a description.*
-	- TBD
+	- Yes, it will. It indicated that the data for the Cooperative Election Study (CES) 2022 is available at the Harvard University Dataverse. This can be seem as the dataset is accessible to third parties outside of the institutions directly involved in the creation of the dataset, such as Harvard University and YouGov.
 2. *How will the dataset be distributed (for example, tarball on website, API, GitHub)? Does the dataset have a digital object identifier (DOI)?*
-	- TBD
+	- The Cooperative Election Study (CES) 2022 will be distributed through the Harvard University Dataverse. This distribution method ensures that the dataset is accessible for academic and research purposes. The DOI for the Cooperative Election Study Common Content 2022 is https://doi.org/10.7910/DVN/PR4L8P, 
 3. *When will the dataset be distributed?*
-	- TBD
+	- Dataset is distributed in two period: first, on March 20, 2023. It included the CES 2022 Common Content, which is the data collected that is common across all participating research teams.The second period is on September 8, 2023, it included vote validation for all respondents, enhancing the dataset's utility for electoral research by verifying the voting behavior reported by the survey participants.
 4. *Will the dataset be distributed under a copyright or other intellectual property (IP) license, and/or under applicable terms of use (ToU)? If so, please describe this license and/ or ToU, and provide a link or other access point to, or otherwise reproduce, any relevant licensing terms or ToU, as well as any fees associated with these restrictions.*
-	- TBD
+	- No.
 5. *Have any third parties imposed IP-based or other restrictions on the data associated with the instances? If so, please describe these restrictions, and provide a link or other access point to, or otherwise reproduce, any relevant licensing terms, as well as any fees associated with these restrictions.*
-	- TBD
+	- No.
 6. *Do any export controls or other regulatory restrictions apply to the dataset or to individual instances? If so, please describe these restrictions, and provide a link or other access point to, or otherwise reproduce, any supporting documentation.*
 	- TBD
 7. *Any other comments?*
-	- TBD
+	- No.
 
 **Maintenance**
 
