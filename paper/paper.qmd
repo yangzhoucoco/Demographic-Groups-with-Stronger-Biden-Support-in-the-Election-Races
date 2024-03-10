@@ -138,7 +138,7 @@ Our results are summarized in @tbl-modelresults.
 
 library(rstanarm)
 
-first_model <-
+us_political_preferences <-
   readRDS(file = here::here("model/first_model.rds"))
 ```
 
