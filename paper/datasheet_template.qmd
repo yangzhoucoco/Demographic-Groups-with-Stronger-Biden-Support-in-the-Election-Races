@@ -4,9 +4,9 @@ author:
   - Yang Zhou
   - Yuean Wang
 thanks: "Code and data are available at: LINK."
-date: "`r Sys.time()`"
+date: "`09 March 2024`"
 date-format: "09 March 2024"
-abstract: "First sentence. Second sentence. Third sentence. Fourth sentence."
+abstract: "The CES 2022 dataset, collected through an online survey by YouGov, encompasses 60,000 instances representing U.S. adult citizens' electoral behaviors, political opinions, and demographic characteristics. The instances are detailed and categorized by election experiences, contextual data, demographic information (e.g., gender, race, education), political affiliations, and opinions on various policy issues. The dataset employs a matched random sampling methodology, with its representativeness validated through a two-stage weighting process involving entropy balancing and iterative proportional fitting. Preprocessing included sample matching, weighting, and vote validation, ensuring data quality and representativenes in order to avoid representative bias."
 format: pdf
 number-sections: true
 bibliography: references.bib
@@ -17,7 +17,7 @@ Extract of the questions from @gebru2021datasheets.
 
 **Motivation**
 
-1. *For what purpose was the dataset created? Was there a specific task in mind? Was there a specific gap that needed to be filled? Please provide a description.*
+1. *For what purpose was the dataset created? Was there a specific task in mind? Was there a specific gap that needed to be filled? Please provide a description
     - The Cooperative Election Study (CES) aims to study how Americans perceive and hold their representatives accountable during elections. Besides, the study also interested in understanding their voting behavior and how their behavior be affected by political geography and social context. They study the group by capturing mass data across most of legislative constituencies. CES aims to fill the gap of understanding the American electoral process by analyzing congressional elections and national surveys.
 
 2. *Who created the dataset (for example, which team, research group) and on behalf of which entity (for example, company, institution, organization)?*
@@ -53,7 +53,7 @@ Extract of the questions from @gebru2021datasheets.
 10. *Is the dataset self-contained, or does it link to or otherwise rely on external resources (for example, websites, tweets, other datasets)? If it links to or relies on external resources, a) are there guarantees that they will exist, and remain constant, over time; b) are there official archival versions of the complete dataset (that is, including the external resources as they existed at the time the dataset was created); c) are there any restrictions (for example, licenses, fees) associated with any of the external resources that might apply to a dataset consumer? Please provide descriptions of all external resources and any restrictions associated with them, as well as links or other access points, as appropriate.*
 	- No, it does not link to external source. This dataset is mainly rely on survey collection of individual participants.Voter file matching might be an external consideration. Data for the CES 2022 study, including vote validation for all respondents, is archived and available at the Harvard University Dataverse. The restriction might be it does not include a specific restriction related to the TargetSmart database or other external resources used for voter file matching and verification are not detailed.
 11. *Does the dataset contain data that might be considered confidential (for example, data that is protected by legal privilege or by doctor-patient confidentiality, data that includes the content of individuals' non-public communications)? If so, please provide a description.*
-	- he CES 2022 dataset consists primarily of structured survey data collected from respondents about their political views, behaviors, and demographic information. Such data is generally not subject to legal privileges such as doctor-patient confidentiality or confidentiality of legal communications.
+	- The CES 2022 dataset consists primarily of structured survey data collected from respondents about their political views, behaviors, and demographic information. Such data is generally not subject to legal privileges such as doctor-patient confidentiality or confidentiality of legal communications.
 12. *Does the dataset contain data that, if viewed directly, might be offensive, insulting, threatening, or might otherwise cause anxiety? If so, please describe why.*
 	- In terms of Racial and Sexual Agreement, it might be offensive for the respondent, especially when the question design in a way that might present bias.
 13. *Does the dataset identify any sub-populations (for example, by age, gender)? If so, please describe how these subpopulations are identified and provide a description of their respective distributions within the dataset.*
