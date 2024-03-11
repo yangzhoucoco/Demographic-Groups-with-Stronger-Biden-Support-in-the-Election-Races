@@ -176,8 +176,7 @@ modelsummary(
 # Discussion
 
 ## First discussion point {#sec-first-point}
-
-If my paper were 10 pages, then should be be at least 2.5 pages. The discussion is a chance to show off what you know and what you learnt from all this. Logistic regression is also known as generalized linear regression model, and its form is basically the same as that of linear regression model. The biggest difference lies in their different dependent variables. If it is continuous, it is multiple linear regression. If it is a binomial distribution, it is Logistic regression.
+Logistic regression is also known as generalized linear regression model, and its form is basically the same as that of linear regression model. The biggest difference lies in their different dependent variables. If it is continuous, it is multiple linear regression. If it is a binomial distribution, it is Logistic regression.
 Although Logistic regression has the name "regression", it is actually a classification method, mainly used for binary classification problems (that is, there are only two outputs, each representing two categories), but also can handle multiple classification problems.
 Linear regression is used to predict continuous variables, whose value range is (- ", + "), while logistic regression model is used to predict categories. For example, using logistic regression model to predict whether an item belongs to class A or Class B essentially predicts the probability that the item belongs to class A or class B, and the value range of probability is 0~1. Therefore, it is not possible to predict the probability directly with the linear regression equation, which involves the Sigmoid function, which converts the values of the range (-∞, +∞) to the range (0,1).
 
@@ -186,6 +185,7 @@ In summary, the essence of logistic regression model is to transform the linear 
 
 ## Third discussion point
 The training set is used to train the data and build the model, and the test set is used to check the effect of the model built after training. The purpose of dividing the training set and the test set is to evaluate the model, and to optimize the model through the test set. Dividing the training set and the test set is also, in part, to check for overfitting of the model.
+
 ## Weaknesses and next steps
 
 
