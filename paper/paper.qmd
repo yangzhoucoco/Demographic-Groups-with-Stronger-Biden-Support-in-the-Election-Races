@@ -34,7 +34,7 @@ The study on CES 2022 is still under progress. Using a large-scale national surv
 
 # Data {#sec-data}
 
-### Source and Methodology
+## Source and Methodology
 The 2022 Cooperative Election Study (CES) (@main_data) involved significant data preprocessing, cleaning, and labeling efforts to ensure the quality and representativeness of the survey data. These efforts are elaborated on through descriptions of sampling methodology, matching procedures, and weighting processes as outlined in the CES Guide 2022.
 
 ### Sampling and Sampling Matching
@@ -49,6 +49,7 @@ Using traditional sampling, participants in the study are chosen at random from 
 
 ### Vote Vaildation
 The CES incorporated vote validation to verify the accuracy of respondents’ reported voting behaviors. Individual records were matched to the TargetSmart database of registered voters, and only records with a high level of confidence were considered matched. This process helped identify respondents who voted in the 2022 General and Primary Elections, as well as their modes of voting (e.g., absentee, early, mail, etc.). This validation step is crucial for analyses focused on voting behaviors and ensures that the CES data reflects actual voter participation.
+
 
 These methodologies indicate a comprehensive approach to data preprocessing, cleaning, and labeling within the CES 2022, aiming to enhance the accuracy, reliability, and representativeness of the survey data.
 
