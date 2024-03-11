@@ -32,19 +32,21 @@ Fall of 2022 saw the recruitment of study participants. Every research team inve
 The first data release happened on March 20, 2023. The Harvard University database contains archived and accessible data from this investigation. Vote verification is included in data release 2 for all respondents.
 The study on CES 2022 is still under progress. Using a large-scale national survey, the Collaborative Congressional Election project was founded in 2006 to investigate congressional elections and representation. The project built upon the analysis conducted by the Public Opinion Research and Training Lab at the Massachusetts Institute of Technology in 2005.
 # Data {#sec-data}
+
+### Source and Methodology
 The 2022 Cooperative Election Study (CES) (@main_data) involved significant data preprocessing, cleaning, and labeling efforts to ensure the quality and representativeness of the survey data. These efforts are elaborated on through descriptions of sampling methodology, matching procedures, and weighting processes as outlined in the CES Guide 2022.
 
-## Source and Methodology
-
-## Sampling and Sampling Matching
+### Sampling and Sampling Matching
 The CES 2022 dataset is a sample of adult U.S. citizens, taken from a considerably larger population, rather than an exhaustive list of all possible cases in the target population. The sample was deliberately created to be a true reflection of the population of the United States and to capture the variations among the different legislative districts for in-depth examination in the majority of states.
 Through the Internet, YouGov conducted the CES 2022 survey. 60,000 adults were interviewed between September and November 2022 (pre-election data) and November and December 2022 (post-election data) for the Common Opinion. The YouGov matching approach for random sampling was used. YouGov employed the matched random sampling method at CES among other sampling techniques. The first step in this process is to count the target population, which in the case of general population research consists of all adults. This is typically done by using an extensive survey such as the American Community Survey. The target sample is then selected at random by CES from this target population. 
 However, because it is frequently impractical to make direct contact with these individuals, a matching sample is chosen from among selectable respondents who share the same characteristics as the target sample. This selection process is carried out based on a multitude of attributes available in the voter and consumer databases.
-## Weightening
+
+### Weightening
 A weighting process is used to account for any residual imbalances between the matched samples, therefore rigorously verifying the representativeness of CES samples. The weighting of the sample was adjusted to align with the framework's distribution along several demographic and political aspects. Entropy balancing and iterative proportional fitting (sequencing) of multiple important variables and their interactions comprise the first stage of the weighting process. The sample is also thought to be representative of every state for the survey's common content and takes into account changes for statewide political races.
 There are two steps involved in selecting samples when utilizing the matching approach. First, select a sample at random from the intended audience. This sample is known as the target sample. The process of choosing a "representative" sample from a non-random sample of responders is known as sample matching. Although it works well for Web access panels, it may also be applied to other survey kinds, such phone surveys. The target population is enumerated before sample matching begins. All adults are the target group for general population studies, and they can be counted using either a top-notch survey like the American Community Survey or the decennial Census. This is referred to as a sampling frame in other contexts, although unlike traditional sampling, the sample is not taken out of the frame. 
 Using traditional sampling, participants in the study are chosen at random from a framework for sampling. Because not every person in the framework has access to contact information, particularly email addresses, and because declining to participate would raise the expense of sampling in this manner, it could not be practical or cost-effective.
-##Vote Vaildation
+
+### Vote Vaildation
 The CES incorporated vote validation to verify the accuracy of respondents’ reported voting behaviors. Individual records were matched to the TargetSmart database of registered voters, and only records with a high level of confidence were considered matched. This process helped identify respondents who voted in the 2022 General and Primary Elections, as well as their modes of voting (e.g., absentee, early, mail, etc.). This validation step is crucial for analyses focused on voting behaviors and ensures that the CES data reflects actual voter participation.
 
 These methodologies indicate a comprehensive approach to data preprocessing, cleaning, and labeling within the CES 2022, aiming to enhance the accuracy, reliability, and representativeness of the survey data.
