@@ -24,7 +24,7 @@ library(here)
 
 
 # Introduction
-Cooperative Election Study (CES) (@main_data) aims to study American electoral dynamics during 2022 elections period
+Cooperative Election Study (CES) (@main_data) aims to study American electoral dynamics during 2022 elections period.
 
 
 
