@@ -114,11 +114,6 @@ Determine the Time Period: Specify the time frame to calculate when the survey o
 Calculate the Case: Calculate each individual's distribution to the survey object. And consider the outcome that will be given with the distributions. 
 
 # Model
-
-The goal of our modelling strategy is twofold. Firstly,...
-
-Here we briefly describe the Bayesian analysis model used to investigate... Background details and diagnostics are included in [Appendix -@sec-model-details].
-
 ## Model set-up
 
 Define $y_i$ is the political preference of the respondent and equal to 1 if Biden and 0 if Trump. Then $\mbox{gender}_i$ is the gender of the respondent and $\mbox{race}_i$ is the race of the respondent.  
