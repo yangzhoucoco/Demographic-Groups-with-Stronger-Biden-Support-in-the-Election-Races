@@ -1,6 +1,6 @@
 #### Preamble ####
 # Purpose: Downloads and saves the data from [...UPDATE THIS...]
-# Author: Rohan Alexander [...UPDATE THIS...]
+# Author: Yang Zhou & Yuean Wang & Dong Jun Yoon 
 # Date: 12 March 2024 
 # Contact: cocoyang.zhou@utoronto.ca & dongjun.yoon@mail.utoronto.ca & yuean.wang@mail.utoronto.ca
 # License: MIT
