@@ -196,6 +196,7 @@ The training set is used to train the data and build the model, and the test set
 
 ## Weaknesses and next steps
 
+Logistic regression can only deal with linearly separable problems, and for nonlinear separable data, logistic regression will be poor. Logistic regression is sensitive to outliers, and if there are outliers in the data, the effect of logistic regression may be affected. Finally, logistic regression can usually only handle binary classification problems, and for multi-classification problems, some additional processing is required. If the sample size is insufficient or the features are too complex, logistic regression is prone to overfitting.
 
 
 \newpage
