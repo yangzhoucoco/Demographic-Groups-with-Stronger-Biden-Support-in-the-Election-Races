@@ -3,7 +3,8 @@ title: "My title"
 subtitle: "My subtitle if needed"
 author: 
   - Dong Jun Yoon
-  - Another author
+  - Yang Zhou
+  - Yuean Wang
 thanks: "Code and data are available at: <https://github.com/yangzhoucoco/Political-support-in-the-United-States.git>."
 date: today
 date-format: long
