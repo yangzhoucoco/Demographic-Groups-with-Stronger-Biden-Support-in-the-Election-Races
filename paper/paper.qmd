@@ -113,16 +113,6 @@ Determine the Time Period: Specify the time frame to calculate when the survey o
 
 Calculate the Case: Calculate each individual's distribution to the survey object. And consider the outcome that will be given with the distributions. 
 
-
-Talk more about it.
-
-And also planes (@fig-vote). (You can change the height and width, but don't worry about doing that until you have finished every other aspect of the paper - Quarto will try to make it look nice and the defaults usually work well once you have enough text.)
-
-
-Talk way more about it. 
-
-
-
 # Model
 
 The goal of our modelling strategy is twofold. Firstly,...
