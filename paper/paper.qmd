@@ -1,5 +1,5 @@
 ---
-title: "Political Support in the United-States'"
+title: "Political Support in the United States'"
 author: 
   - Yang Zhou
   - Yuean Wang
