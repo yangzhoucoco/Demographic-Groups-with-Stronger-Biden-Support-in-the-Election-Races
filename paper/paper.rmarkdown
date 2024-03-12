@@ -2,10 +2,11 @@
 title: "Political-support-in-the-United-States"
 
 author: 
-  - First author
-  - Another author
+  - Dong Jun Yoon
+  - Yang Zhou
+  - Yuean Wang
 thanks: "Code and data are available at: <https://github.com/yangzhoucoco/Political-support-in-the-United-States.git>."
-date: today
+date: March 12, 2024
 date-format: long
 abstract: "First sentence. Second sentence. Third sentence. Fourth sentence."
 format: pdf
