@@ -140,14 +140,15 @@ We run the model in R [@citeR] using the `rstanarm` package of @rstanarm, `here`
 
 ### Model justification
 
-We expect a positive relationship between the size of the wings and time spent aloft. In particular...
+We expect a positive relationship between the size of the wings and time spent aloft. Logistic regression models learn and predict very quickly
+Fast, because logistic regression is a linear model, its decision function is a very simple linear function, so its computational complexity is low. Logistic regression model is easy to interpret, and the coefficient of the model can give the degree of influence of each feature on the model. This can be used in real business applications to help decision makers better understand the model's predictions. In addition, logistic regression models can handle large scale data well, because logistic regression models only need to dimension a small number of parameters to adapt well to a large number of parameters.
 
 We can use maths by including latex between dollar signs, for instance $\theta$.
 
 
 # Results
 
-Our results are summarized in @tbl-modelresults.
+Our results are summarized in @tbl-modelresults.Logistic regression is a common classification algorithm used to predict binary classification problems. In logistic regression, the probability that a sample belongs to a certain class is determined by mapping the input data to a probability range between 0 and 1 using a logical function, such as the sigmoid function. When interpreting the results of logistic regression models. Logistic regression models can provide coefficients (or weights) for each feature variable that represent the relative importance of the feature. The positive and negative symbols of the coefficient can tell us whether the feature has positive or negative influence on the target category, and the absolute value of the coefficient can map the importance of the feature to the target category.
 
 ```{r}
 #| echo: false
@@ -182,15 +183,15 @@ modelsummary(
 
 # Discussion
 
-## First discussion point {#sec-first-point}
+## application of Logistic regression {#sec-first-point}
 Logistic regression is also known as generalized linear regression model, and its form is basically the same as that of linear regression model. The biggest difference lies in their different dependent variables. If it is continuous, it is multiple linear regression. If it is a binomial distribution, it is Logistic regression.
 Although Logistic regression has the name "regression", it is actually a classification method, mainly used for binary classification problems (that is, there are only two outputs, each representing two categories), but also can handle multiple classification problems.
 Linear regression is used to predict continuous variables, whose value range is (- ", + "), while logistic regression model is used to predict categories. For example, using logistic regression model to predict whether an item belongs to class A or Class B essentially predicts the probability that the item belongs to class A or class B, and the value range of probability is 0~1. Therefore, it is not possible to predict the probability directly with the linear regression equation, which involves the Sigmoid function, which converts the values of the range (-∞, +∞) to the range (0,1).
 
-## Second discussion point
+## linear regression model
 In summary, the essence of logistic regression model is to transform the linear regression model Q through a nonlinear Sigmoid function to obtain a probability value between 0 and 1. For binary classification problem (classification 0 and 1), the probability of predicting the classification as 1(or the classification with a larger value in the binary classification) can be calculated using the formula shown below. df has a total of about 7000 groups of historical data, of which about 2000 groups are lost customers, about 5000 groups are not lost customers will "whether to lose" as the target variable, other fields as characteristic variables, through some basic information and transaction records of a customer to predict whether he will lose, or judge the probability of loss.
 
-## Third discussion point
+## model building
 The training set is used to train the data and build the model, and the test set is used to check the effect of the model built after training. The purpose of dividing the training set and the test set is to evaluate the model, and to optimize the model through the test set. Dividing the training set and the test set is also, in part, to check for overfitting of the model.
 
 ## Weaknesses and next steps
