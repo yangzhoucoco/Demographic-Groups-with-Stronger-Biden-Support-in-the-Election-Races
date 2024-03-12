@@ -1,11 +1,11 @@
 #### Preamble ####
 # Purpose: Simulates... [...UPDATE THIS...]
 # Author: Yang Zhou & Yuean Wang & Dong Jun Yoon [...UPDATE THIS...]
-# Date: 11 February 2023 [...UPDATE THIS...]
+# Date: 12 February 2023 [...UPDATE THIS...]
 # Contact: cocoyang.zhou@utoronto.ca & dongjun.yoon@mail.utoronto.ca & yuean.wang@mail.utoronto.ca [...UPDATE THIS...]
 # License: MIT
-# Pre-requisites: [...UPDATE THIS...]
-# Any other information needed? [...UPDATE THIS...]
+# Pre-requisites: No
+# Any other information needed? No
 
 
 #### Workspace setup ####
