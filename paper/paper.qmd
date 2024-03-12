@@ -138,6 +138,8 @@ y_i|\pi_i &\sim \mbox{Bern}(\pi_i) \\
 
 We run the model in R [@citeR] using the `rstanarm` package of @rstanarm, `here` package of @here and `model_summary` package of @model_summary, we use the default priors from `rstanarm`
 
+Through feature selection, the influence of redundant features and noise features is reduced, and the generalization ability of the model is improved. By means of L1 regularization and L2 regularization, the complexity of the model is limited and overfitting is prevented. By integrating the results of multiple classifiers, the accuracy and robustness of the model are improved. By changing the structure of the model, such as increasing the depth of the network, increasing the hidden layer and changing the activation function, the expressibility of the model is improved. By expanding, rotating and scaling the data, the diversity of the data is increased and the generalization ability of the model is improved.
+
 
 ### Model justification
 
