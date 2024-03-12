@@ -6,7 +6,7 @@ author:
   - Yang Zhou
   - Yuean Wang
 thanks: "Code and data are available at: <https://github.com/yangzhoucoco/Political-support-in-the-United-States.git>."
-date: March 12, 2024
+date: today
 date-format: long
 abstract: 
 There is no other nation in the world that conducts elections the way the United States does. Local government representatives oversee elections in around 8,000 distinct jurisdictions. They are then under the general supervision of authorities, who are frequently selected through election procedures or partisan appointees. Typically, the voter liaison at the polling place is a temporary worker who works unpaid for a single day and only gets a few hours of training. These distinctive characteristics of our electoral system, along with the fact that Americans vote more frequently than citizens in other countries on a wider range of issues and positions, create special difficulties for the efficient administration of elections that voters across demand and deserve.
