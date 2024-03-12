@@ -2,7 +2,7 @@
 title: "My title"
 subtitle: "My subtitle if needed"
 author: 
-  - First author
+  - Dong Jun Yoon
   - Another author
 thanks: "Code and data are available at: <https://github.com/yangzhoucoco/Political-support-in-the-United-States.git>."
 date: today
@@ -100,7 +100,17 @@ ces2022 |>
   scale_fill_brewer(palette = "Set1") +
   theme(legend.position = "bottom")
 ```
+The collected dataset from the Cooperative Election Study (CES) offers a comprehensive view of U.S. adult citizens' electoral behaviors, political opinions, and demographic characteristics. The CES 2022 dataset, gathered through an online survey by YouGov, encompasses 60,000 instances, meticulously detailed and categorized by various factors such as election experiences, contextual data, demographic information (e.g., gender, race, education), political affiliations, and opinions on various policy issues. This dataset ensures a reliable representation of the population through its meticulous sampling methodology and validation processes, guaranteeing that it accurately reflects the diverse perspectives within the U.S. electorate. The dataset employs a matched random sampling methodology, with its representativeness further confirmed through a two-stage weighting process involving entropy balancing and iterative proportional fitting. Preprocessing steps, including sample matching, weighting, and vote validation, are conducted to ensure data quality and representativeness, thereby minimizing the risk of representative bias.
 
+To better understand the American election and its voting system that occurred in 2022, we need to follow these steps: 
+
+Define the population: The survey involves 60,000 cases, based on the survey of adult participants in the fall of 2022. Individual respondents participate in the survey, which is designed to record various information related to electoral behavior, political perspectives, and demographic characteristics.
+
+Gather Data: Acquire information regarding the total number of confirmed survey cases. This dataset should include various factors such as,  election experiences, contextual data, demographic details (e.g., gender, race, education), political affiliations, and viewpoints on diverse policy matters.
+
+Determine the Time Period: Specify the time frame to calculate when the survey object was collected. The timeframe is relevant to survey participants about their opinions, voting intentions in the 2022 election. The first period is the pre-election data collection that occurred from September 29 to November 8, 2022, and the second period is post- election data gathered from November 10 to December 15, 2022. 
+
+Calculate the Case: Calculate each individual's distribution to the survey object. And consider the outcome that will be given with the distributions. 
 
 
 Talk more about it.
