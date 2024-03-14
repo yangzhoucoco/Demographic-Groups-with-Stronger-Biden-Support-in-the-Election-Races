@@ -1,4 +1,9 @@
 # Political-support-in-the-United-States
+# Paper Overview
+This GitHub reposittory contains all files for *Political Support in the United States*. 
+
+The dataset that used in the paper can be found at: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PR4L8P 
+
 # File Structure
 
 The repo is structured as:
@@ -14,4 +19,4 @@ The repo is structured as:
 
 # LLM Usage Statement
 
-No chatGPT4 been use for this paper.
+No chatGPT4 usage had been use for this paper.
