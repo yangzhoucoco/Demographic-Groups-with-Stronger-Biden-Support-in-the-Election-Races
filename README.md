@@ -18,4 +18,4 @@ The repo is structured as:
 
 # LLM Usage Statement
 
-No chatGPT4 usage had been use for this paper.
+No chatGPT4 usage has been use for this paper.
