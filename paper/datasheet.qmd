@@ -1,9 +1,9 @@
 ---
 title: "Datasheet for 'A dataset'"
 author: 
-  - Yang Zhou
-  - Yuean Wang
   - Dong Jun Yoon
+  - Yuean Wang
+  - Yang Zhou
 thanks: "Code and data are available at: <https://github.com/yangzhoucoco/Political-support-in-the-United-States.git.>"
 date: "`09 March 2024`"
 date-format: "09 March 2024"
