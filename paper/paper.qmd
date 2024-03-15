@@ -21,6 +21,11 @@ bibliography: references.bib
 
 library(tidyverse)
 library(here)
+library(modelsummary)
+library(knitr)
+library(kableExtra)
+library(readr)
+library(ggplot2)
 ```
 
 
@@ -68,11 +73,18 @@ ces2022 <-  read_csv(file = here::here("data/raw_datas/raw_datas.csv"))
         "gender" = col_integer(),
         "race" = col_integer()
       )
-ces2022
+
+ces2022_table <- ces2022 |>
+  kable("html", booktabs = TRUE, caption = "Brief summary of variables types") |>
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed"), full_width = F)
+
+print(ces2022_table)
 ```
-  After downloading @dataverse, We using @get_dataframe_by_name to access the CES. We select and save the data that we are most care about, which are "votereg", "presvote20post", "race", and "gender4". "votereg" represent the voter registration status. To be more specific, whether they are registered to vote or not. "presvote20post" records the president that voter select in the election of 2020. “race" describe the voter's raical or ethnic group, and "gender4" refer to the gender of voters.
+
+   After downloading @dataverse, We using @get_dataframe_by_name to access the CES. We select and save the data that we are most care about, which are "votereg", "presvote20post", "race", and "gender4". "votereg" represent the voter registration status. To be more specific, whether they are registered to vote or not. "presvote20post" records the president that voter select in the election of 2020. “race" describe the voter's raical or ethnic group, and "gender4" refer to the gender of voters.
   However, when we access the raw data, there are some variables that we are not interested in. Therefore, we use the codebook to delve into the details. We only care about the voter who are registered to vote, and we are mainly focus on investigating the voter who select Biden or Trump in 2020. We found out that when the "presvote20post" is 1, then this indicates the register vote for Biden, and when it is 2 represents that the voter stand for Trump. We use @tidyverse to filter to the voters that we care about and label them with meaningful title. In addition，CES also provide the information for the gender of the voter. However, we noticed that there are four types of gender, which are man, woman, non-binary, other, and none and we are more interested in the group of man and woman. Therefore, we filter the gender by using @tidyverse. When the variable "gender" is 1, this indicates "man", but we rename all "man" to "male". When the variable "gender" is 2, it refers to "woman". We also rename all "woman" to "female". Finally, the codebook also define different "race" from 1 to 8, which are White, Black, Hispanic, Asian, Native American, Middle Eastern, Two or more races, and other. We keep all those races because we are not only interested in the major racial group, but also curious about the respond from minority group.
   To better understand the raw data, a summary table had been drawn in order to provide more details for each variables, explaining the variables we select.
+
   
 ## Measurements
 ```{r}
@@ -82,30 +94,46 @@ ces2022
 #| warning: false
 #| message: false
 
+library(ggplot2)
+library(readr)
+library(here)
+
 ces2022 <- read_csv(here("data/analysis_data/analysis_data.csv"))
 
-ces2022 |>
-  ggplot(aes(x = race, fill = voted_for)) +
-  stat_count(position = "dodge") +
-  geom_text(stat='count', aes(label=..count..), position=position_dodge(width=0.9), vjust=-0.25, color="black") +
+
+ggplot(data = ces2022, aes(x = race, fill = voted_for)) +
+  geom_bar(position = "dodge") +  
+  geom_text(
+    aes(label = ..count..),
+    stat = 'count',
+    position = position_dodge(width = 0.9),
+    vjust = -0.25,
+    color = "black",
+    size = 3  
+  ) +
   facet_wrap(facets = vars(gender4)) +
-  theme_minimal() +
+  theme_minimal(base_size = 14) +  
   labs(
     x = "Race",
     y = "Number of respondents",
     fill = "Voted for"
   ) +
-  coord_flip() +
+  coord_flip() +  
   scale_fill_brewer(palette = "Set1") +
-  theme(legend.position = "bottom")
+  theme(
+    legend.position = "bottom",
+    strip.text = element_text(size = 12)  
+  )
+
 ```
-The collected dataset from the Cooperative Election Study (CES) offers a comprehensive view of U.S. adult citizens' electoral behaviors, political opinions, and demographic characteristics. The CES 2022 dataset, gathered through an online survey by YouGov, encompasses 60,000 instances, meticulously detailed and categorized by various factors such as election experiences, contextual data, demographic information (e.g., gender, race, education), political affiliations, and opinions on various policy issues. This dataset ensures a reliable representation of the population through its meticulous sampling methodology and validation processes, guaranteeing that it accurately reflects the diverse perspectives within the U.S. electorate. The dataset employs a matched random sampling methodology, with its representativeness further confirmed through a two-stage weighting process involving entropy balancing and iterative proportional fitting. Preprocessing steps, including sample matching, weighting, and vote validation, are conducted to ensure data quality and representativeness, thereby minimizing the risk of representative bias.
+
+The collected dataset from the Cooperative Election Study (CES) offers a comprehensive view of U.S. adult citizens' electoral behaviors, political opinions, and demographic characteristics. The CES 2022 dataset, gathered through an online survey by YouGov, encompasses 60,000 instances, meticulously detailed and categorized by various factors such as election experiences, contextual data, demographic information (e.g., gender and race), political affiliations, and opinions on various policy issues. This dataset ensures a reliable representation of the population through its meticulous sampling methodology and validation processes, guaranteeing that it accurately reflects the diverse perspectives within the U.S. electorate. The dataset employs a matched random sampling methodology, with its representativeness further confirmed through a two-stage weighting process involving entropy balancing and iterative proportional fitting. Preprocessing steps, including sample matching, weighting, and vote validation, are conducted to ensure data quality and representativeness, thereby minimizing the risk of representative bias.
 
 To better understand the American election and its voting system that occurred in 2022, we need to follow these steps: 
 
 Define the population: The survey involves 60,000 cases, based on the survey of adult participants in the fall of 2022. Individual respondents participate in the survey, which is designed to record various information related to electoral behavior, political perspectives, and demographic characteristics.
 
-Gather Data: Acquire information regarding the total number of confirmed survey cases. This dataset should include various factors such as,  election experiences, contextual data, demographic details (e.g., gender, race, education), political affiliations, and viewpoints on diverse policy matters.
+Gather Data: Acquire information regarding the total number of confirmed survey cases. This dataset should include various factors such as,  election experiences, contextual data, demographic details, political affiliations, and viewpoints on diverse policy matters.
 
 Determine the Time Period: Specify the time frame to calculate when the survey object was collected. The timeframe is relevant to survey participants about their opinions, voting intentions in the 2022 election. The first period is the pre-election data collection that occurred from September 29 to November 8, 2022, and the second period is post- election data gathered from November 10 to December 15, 2022. 
 
@@ -128,7 +156,6 @@ y_i|\pi_i &\sim \mbox{Bern}(\pi_i) \\
 \end{align}
 
 
-
 We run the model in R [@citeR] using the `rstanarm` package of @rstanarm, `here` package of @here and `model_summary` package of @model_summary, we use the default priors from `rstanarm`
 
 Through feature selection, the influence of redundant features and noise features is reduced, and the generalization ability of the model is improved. By means of L1 regularization and L2 regularization, the complexity of the model is limited and overfitting is prevented. By integrating the results of multiple classifiers, the accuracy and robustness of the model are improved. By changing the structure of the model, such as increasing the depth of the network, increasing the hidden layer and changing the activation function, the expressibility of the model is improved. By expanding, rotating and scaling the data, the diversity of the data is increased and the generalization ability of the model is improved.
@@ -143,7 +170,6 @@ We can use maths by including latex between dollar signs, for instance $\theta$.
 
 
 # Results
-
 Our results are summarized in @tbl-modelresults.Logistic regression is a common classification algorithm used to predict binary classification problems. In logistic regression, the probability that a sample belongs to a certain class is determined by mapping the input data to a probability range between 0 and 1 using a logical function, such as the sigmoid function. When interpreting the results of logistic regression models. Logistic regression models can provide coefficients (or weights) for each feature variable that represent the relative importance of the feature. The positive and negative symbols of the coefficient can tell us whether the feature has positive or negative influence on the target category, and the absolute value of the coefficient can map the importance of the feature to the target category.
 
 ```{r}
@@ -161,9 +187,8 @@ us_political_preferences <-
 ```{r}
 #| echo: false
 #| eval: true
-#| label: tbl-modelresults
-#| tbl-cap: "Explanatory models of flight time based on wing width and wing length"
 #| warning: false
+#| message: false
 
 modelsummary(
   list(
@@ -173,8 +198,6 @@ modelsummary(
 )
 
 ```
-
-
 
 
 # Discussion
