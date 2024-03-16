@@ -5,8 +5,8 @@ author:
   - Yuean Wang
   - Yang Zhou
 thanks: "Code and data are available at: <https://github.com/yangzhoucoco/Political-support-in-the-United-States.git.>"
-date: "`09 March 2024`"
-date-format: "09 March 2024"
+date: today
+date-format: long
 abstract: "The CES 2022 dataset, collected through an online survey by YouGov, encompasses 60,000 instances representing U.S. adult citizens' electoral behaviors, political opinions, and demographic characteristics. The instances are detailed and categorized by election experiences, contextual data, demographic information (e.g., gender, race, education), political affiliations, and opinions on various policy issues. The dataset employs a matched random sampling methodology, with its representativeness validated through a two-stage weighting process involving entropy balancing and iterative proportional fitting. Preprocessing included sample matching, weighting, and vote validation, ensuring data quality and representativenes in order to avoid representative bias."
 format: pdf
 number-sections: true
