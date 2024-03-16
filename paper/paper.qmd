@@ -10,6 +10,7 @@ date-format: long
 abstract: "This paper examines the unique characteristics of the United States' election system and their impact on the administration of elections. Throughout an analysis of the 2022 US election, it was found that the decentralization, reliance on volunteers, and frequent voting cycles pose significant challenges to efficient election management. These challenges result in inconsistencies in administration quality and raise concerns about partisanship. Understanding these complexities is significant since it allows people to recognize the challenges faced in modern democratic processes and for conducting improvements in election administration worldwide."
 
 format: pdf
+toc: true
 number-sections: true
 bibliography: references.bib
 ---
