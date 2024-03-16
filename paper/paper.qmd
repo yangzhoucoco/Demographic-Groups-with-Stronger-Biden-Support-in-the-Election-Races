@@ -211,12 +211,15 @@ modelsummary(
 ## Findings
 In this paper, the 2022 Cooperative Election Study (CES) was used for understanding the complexities of American electoral systems which was discussed in Section 2. In section 3, we applied a Bayesian logistic regression model to know if a person is likely to support Biden, based on their gender, race, and education status. In section 4, we discussed the summarization of the major results based on the research we did in Section 2 and 3. Summarization of our major results:
 
-Males are less likely to support Biden than Females,
-Women most likely to vote for Biden,
-Middle Eastern, Hispanic, Black and Asian individuals are more likely to vote and show support for Biden. 
+1.Males are less likely to support Biden than Females,
+2.Women most likely to vote for Biden,
+3.Middle Eastern, Hispanic, Black and Asian individuals are more likely to vote and show support for Biden. 
 
 Throughout the discussion part, we will now provide detailed points of our results in the following sections. 
 
+## Middle Eastern, Hispanic, Black and Asian individuals are more likely to vote and show support for Biden. 
+
+Based on the analysis of Figure 1 which is located under 2.3 Measurement, we can find out that Middle Eastern, Hispanic, Black and Asian individuals are more likely to vote and show support for Biden. In the graph we provided, we can easily tell that votes for Biden are higher than votes for Trump for certain races. For example, Black individuals have a total vote of 5293 individuals for Biden, however only 642 individuals support and vote for Trump. This same trend can also be observed in races such as Middle Eastern, Hispanic, Black and Asian individuals.
 
 ## Application of Logistic Regression 
 Logistic regression is also known as generalized linear regression model, and its form is basically the same as that of linear regression model. The biggest difference lies in their different dependent variables. If it is continuous, it is multiple linear regression. If it is a binomial distribution, it is Logistic regression.
