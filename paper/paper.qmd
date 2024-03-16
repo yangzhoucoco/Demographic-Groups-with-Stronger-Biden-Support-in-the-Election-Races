@@ -204,9 +204,6 @@ modelsummary(
 
 
 # Discussion
-
-# Discussion
-
 ## Application of Logistic Regression {#sec-first-point}
 Logistic regression is also known as generalized linear regression model, and its form is basically the same as that of linear regression model. The biggest difference lies in their different dependent variables. If it is continuous, it is multiple linear regression. If it is a binomial distribution, it is Logistic regression.
 Although Logistic regression has the name "regression", it is actually a classification method, mainly used for binary classification problems (that is, there are only two outputs, each representing two categories), but also can handle multiple classification problems.
