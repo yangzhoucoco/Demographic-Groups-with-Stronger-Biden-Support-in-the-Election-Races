@@ -216,6 +216,10 @@ In this paper, the 2022 Cooperative Election Study (CES) was used for understand
 
 Throughout the discussion part, we will now provide detailed points of our results in the following sections. 
 
+## Males are less likely to support Biden than Females, women most likely to vote for Biden.
+
+Based on the analysis of Figure 1, located under 2.3 Measurement, we can infer that males (represented by 1) exhibit a lower propensity to support Biden compared to females (represented by 2). Throughout most of the race, 1 consistently has fewer votes than 2. Specifically, women are identified as the demographic most inclined to vote for Biden, indicating a notable gender disparity in political preferences favoring the Biden candidacy.
+
 ## Middle Eastern, Hispanic, Black and Asian individuals are more likely to vote and show support for Biden. 
 
 Based on the analysis of Figure 1 which is located under 2.3 Measurement, we can find out that Middle Eastern, Hispanic, Black and Asian individuals are more likely to vote and show support for Biden. In the graph we provided, we can easily tell that votes for Biden are higher than votes for Trump for certain races. For example, Black individuals have a total vote of 5293 individuals for Biden, however only 642 individuals support and vote for Trump. This same trend can also be observed in races such as Middle Eastern, Hispanic, Black and Asian individuals.
