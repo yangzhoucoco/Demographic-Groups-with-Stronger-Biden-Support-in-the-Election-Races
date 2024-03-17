@@ -1,4 +1,4 @@
-# "Demographic Groups with Stronger Biden Support in the Election Races
+# "Demographic Groups with Stronger Biden Support in the Election Races"
 ## Paper Overview
 This GitHub reposittory contains all files for *"Demographic Groups with Stronger Biden Support in the Election Races*, which gives the insight on what races were more likely to support Biden in the 2020 US Presidential Election.
 
