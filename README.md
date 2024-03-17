@@ -1,6 +1,6 @@
-# Political-support-in-the-United-States
+# "Demographic Groups with Stronger Biden Support in the Election Races
 ## Paper Overview
-This GitHub reposittory contains all files for *Political Support in the United States*. 
+This GitHub reposittory contains all files for *"Demographic Groups with Stronger Biden Support in the Election Races*, which gives the insight on what races were more likely to support Biden in the 2020 US Presidential Election.
 
 The dataset that used in the paper can be found at: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PR4L8P 
 
