@@ -211,9 +211,8 @@ modelsummary(
 ## Findings
 In this paper, the 2022 Cooperative Election Study (CES) was used for understanding the complexities of American electoral systems which was discussed in Section 2. In section 3, we applied a Bayesian logistic regression model to know if a person is likely to support Biden, based on their gender, race, and education status. In section 4, we discussed the summarization of the major results based on the research we did in Section 2 and 3. Summarization of our major results:
 
-1.Males are less likely to support Biden than Females,
-2.Women most likely to vote for Biden,
-3.Middle Eastern, Hispanic, Black and Asian individuals are more likely to vote and show support for Biden. 
+1.Males are less likely to support Biden than Females,women most likely to vote for Biden,
+2.Middle Eastern, Hispanic, Black and Asian individuals are more likely to vote and show support for Biden. 
 
 Throughout the discussion part, we will now provide detailed points of our results in the following sections. 
 
