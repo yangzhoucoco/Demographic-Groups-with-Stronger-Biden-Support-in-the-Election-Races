@@ -1,5 +1,5 @@
 ---
-title: "Political Support in the United States'"
+title: "Demographic Groups with Stronger Biden Support in the Election Races'"
 author: 
   - Dong Jun Yoon
   - Yuean Wang
