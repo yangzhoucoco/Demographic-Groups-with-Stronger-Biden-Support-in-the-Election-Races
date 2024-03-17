@@ -1,6 +1,6 @@
 # Demographic Groups with Stronger Biden Support in the Election Races
 ## Paper Overview
-This GitHub reposittory contains all files for *Demographic Groups with Stronger Biden Support in the Election Races*, which provide the insight on what races were more likely to support Biden in the 2020 US Presidential Election.
+This GitHub reposittory contains all files for *Demographic Groups with Stronger Biden Support in the Election Races*, which provide the insight on what races were more likely to support Biden in the 2020 US Presidential Election. The logistic regression models can provide coefficients for each the race variable that represent the voters' favour on presidential candidates.
 
 The dataset that used in the paper can be found at: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PR4L8P 
 
