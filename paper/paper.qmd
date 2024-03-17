@@ -38,9 +38,6 @@ The Cooperative Election Study (CES) addressed gaps in understanding voter behav
 Throughout the paper, the data utilized for analysis, including both survey and census data, measurements, is in {#sec-data}. Following that, {#sec-model} introduces the model designed to generalize patterns and forecast election outcomes. It will talk about how the model is set up and model justification. In {#sec-results}, I will talk about the predicted results derived from the model, this includes the result of the model. Lastly, {#sec-Discussion} contains more detailed results in a broader context and addresses weaknesses of this paper as well as the future explorations. This paper uses the programming language `R`[@citeR] . The analysis, the model and the visualizations use the following packages: `dplyr`[@dplyr],  `tidyverse`[@tidyverse], `ggplot2`[@ggplot], `knitr` [@knitr],  `here` [@here] , and `kableExtra` [@kableExtra],`modelsummary`[@model_summary], and `rstanarm`[@rstanarm].
 
 
-
-
-
 # Data {#sec-data}
 
 ## Source and Methodology
